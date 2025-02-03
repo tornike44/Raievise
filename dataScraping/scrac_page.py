@@ -144,7 +144,6 @@ for discipline_name, discipline_url in disciplines:
         if " - " not in full_title:
             continue
         title_lower = full_title.lower().strip()
-        # On traite si le titre commence par "Programmes et ressources" ou s'il contient "- cycles"
         if title_lower.startswith("programmes et ressources") or re.search(r'-\s*cycles\s+', title_lower):
             process = True
         elif re.search(r'-\s*cycle\s+\d+$', title_lower):
