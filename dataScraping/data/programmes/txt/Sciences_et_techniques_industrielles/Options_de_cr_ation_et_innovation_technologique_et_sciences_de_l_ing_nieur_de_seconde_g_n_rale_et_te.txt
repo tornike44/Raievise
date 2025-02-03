@@ -1,0 +1,491 @@
+Annexe 
+
+Programme  d’enseignement  optionnel  de  création  et 
+innovation technologiques et de sciences de l’ingénieur de 
+seconde générale et technologique 
+
+Sommaire 
+
+Préambule 
+
+Thématiques proposées 
+
+Organisation de l’enseignement 
+
+Création et innovation technologiques 
+
+Finalités 
+
+Compétences travaillées 
+
+Sciences de l’ingénieur 
+
+Finalités 
+
+Compétences travaillées 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Préambule 
+
+innovations  s’appuient  sur 
+
+Les défis sociétaux à relever appellent constamment la conception et la diffusion de produits 
+innovants.  Ces 
+les  dernières  avancées  scientifiques  et 
+technologiques  et  mobilisent  des  méthodes  de  conception  rigoureuses  pour  répondre  aux 
+besoins actuels et futurs de la société. 
+Les  deux  enseignements  proposés  mettent  en  place  des  éléments  d’une  culture  à  la  fois 
+scientifique et technologique. 
+L’enseignement  optionnel  création  et  innovation  technologiques  (CIT)  a  pour  objet  de  faire 
+découvrir aux élèves les processus de conception des produits en utilisant une démarche de 
+création.  Il  permet  de  comprendre,  en  participant  à  des  projets  technologiques,  en  quoi  la 
+créativité est indispensable au développement de produits innovants. 
+L’enseignement optionnel sciences de l’ingénieur (SI)  engage les élèves dans la démarche 
+scientifique  en  leur  proposant  de  participer  à  des  « défis »  technologiques  nécessitant  la 
+réalisation  d’expérimentations  à  caractère  scientifique.  Les  élèves  découvrent  ainsi  les 
+relations  entre  les  sciences  et  les  solutions  technologiques  dans  un  contexte  contraint  par 
+des exigences socio-économiques et environnementales. 
+Ces deux enseignements développent l’appétence des élèves pour les études scientifiques 
+et  technologiques,  leur  donnent  la  possibilité  de  découvrir  des  métiers  et  des  domaines 
+professionnels dans le champ des sciences de l’ingénieur. Ils prennent appui sur les acquis 
+des  programmes  de  technologie  du  collège.  Les  activités  proposées  permettent  d’identifier 
+les  perspectives  d’études  supérieures  en  les  aidant  à  construire  leur  projet  de  poursuite 
+d’études  par  une  connaissance  approfondie  de  la  nature  des  enseignements  scientifiques, 
+des méthodes et des démarches technologiques utilisées. 
+Les  outils  numériques  sont  systématiquement  mis  en  œuvre  dans  ces  enseignements.  Ils 
+accompagnent toutes les activités proposées : 
+
+ 
+recherche d’informations et exploitation de données et documents numériques ; 
+  analyse de produits pluri-technologiques modélisés en trois dimensions, visualisation 
+
+et simulation de leur fonctionnement ; 
+
+  expérimentations assistées par ordinateur, in situ ou à distance ; 
+  concrétisation d’idées (prototypage rapide et programmation) ; 
+  suivi  et  compte-rendu  écrit  et/ou  oral  d’activités  d’analyse,  de  projet  et 
+
+d’expérimentation ; 
+
+  archivage et consultation des productions des élèves. 
+
+Toutes  ces  activités  individuelles  et  en  équipe  s’inscrivent  naturellement  dans  le  contexte 
+d’un  environnement  technologique  numérique.  Organisé  en  laboratoire  de  fabrication  (ou 
+Fablab, espace partagé d’échanges, de recherche et de fabrication, doté d’outils numériques 
+et technologiques), cet environnement propose des moyens de prototypage rapide et permet 
+la recherche collective de solutions. 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+  
+  
+ 
+ 
+Thématiques proposées 
+
+Les professeurs doivent en priorité retenir des produits, porteurs d’innovations, relevant des 
+grandes thématiques proposées ci-dessous. Ils ont cependant la possibilité de s’appuyer sur 
+d’autres thématiques en rapport avec les grandes questions sociétales actuelles. 
+
+  Les territoires et les produits dits « intelligents » : 
+
+ 
+ 
+ 
+
+la mobilité des personnes et des biens ; 
+les structures et les constructions ; 
+les objets connectés. 
+
+  L’Humain assisté, réparé, augmenté : 
+
+ 
+ 
+ 
+
+les produits d’assistance pour la santé et la sécurité ; 
+la compensation du handicap ; 
+l’augmentation ou le suivi des performances du corps humain. 
+
+Organisation de l’enseignement 
+
+L’enseignement est organisé en plusieurs projets (CIT) ou plusieurs « défis » (SI) permettant 
+d’explorer trois champs technologiques : 
+
+  champ  de  l’information  (innovations  associées  aux  systèmes  d’acquisition,  de 
+numérisation, de traitement, de communication, de stockage et de restitution de voix, 
+images et informations, ou bien associées au virtuel, aux réseaux, etc.) ; 
+
+  champ  de  l’énergie  (innovations  associées  aux  systèmes  de  transformation,  de 
+stockage  et  de  régulation  de  l’énergie,  à  l’efficacité  énergétique,  aux  économies 
+d’énergie, aux impacts environnementaux associés, etc.) ; 
+
+  champ  des  matériaux  et  des  structures  (innovations  associées  aux  nouveaux 
+matériaux  et  aux  systèmes  techniques,  structures  et  constructions  associées,  aux 
+impacts  environnementaux  dus  aux  matériaux  et  aux  principes  de  transformation  et 
+de mise en forme retenus). 
+
+À l’issue de chacun des projets ou défis, l’équipe concernée propose une synthèse de son 
+travail  à  l’ensemble  de  la  classe.  Cette  restitution  peut  être  ouverte  à  des  personnes 
+extérieures,  professeurs,  parents,  professionnels  ou  experts  invités.  Elle  donne  lieu  à  une 
+évaluation, de la part du professeur, qui apprécie les compétences exploitées durant toute la 
+phase concernée et évalue chaque élève en prenant en compte les connaissances acquises, 
+les aptitudes construites et les attitudes adoptées dans le cadre des actions collectives. 
+Ces  enseignements  contribuent  au  développement  des  compétences  orales  à  travers 
+notamment  la  pratique  de  l’argumentation.  Celle-ci  conduit  à  préciser  sa  pensée  et  à 
+expliciter son raisonnement de manière à convaincre. 
+Ces  deux  enseignements  peuvent  s’ouvrir,  en  fonction  de  projets  pédagogiques  précis,  à 
+des  collaborations  pluridisciplinaires  et/ou  à  des participations  à  des  « défis »  ou  concours. 
+Les  relations  avec  les  entreprises  locales  et  l’invitation  de  professionnels  ou  d’experts 
+contribuent à la découverte concrète des métiers et des formations associées aux fonctions 
+de conception, de réalisation et d’innovation. 
+Les structures des deux enseignements technologiques optionnels CIT et SI sont similaires, 
+il est souhaitable de combiner leurs contenus de façon à aborder les compétences liées à la 
+démarche de créativité et celles liées à la démarche scientifique. Les élèves sont amenés à 
+des activités de projets et accompagnés dans la réalisation de « défis ». 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+  
+  
+ 
+ 
+Création et innovation technologiques 
+
+Finalités 
+
+Les activités de projet proposées visent à : 
+
+  appréhender  la  place  de  l’innovation par  une  approche  sociétale,  économique  ou 
+
+environnementale ; 
+
+  adopter  une  démarche  de  création  pour 
+
+imaginer  de  nouvelles  solutions 
+
+technologiques. 
+
+Elles permettent d’aborder les compétences et démarches suivantes. 
+
+  Mettre en œuvre une démarche de projet et de créativité 
+La créativité est une composante de l’innovation. C’est une démarche intellectuelle, culturelle 
+et sociale ; une disposition ou un état d’esprit. 
+Cette phase de l’enseignement s’appuie sur un produit ou un « ouvrage » existant et permet 
+de  proposer  des  réponses  à  une  attente  particulière  et  ciblée  (de  transformation, 
+d’amélioration,  de  modification,  etc.).  Elle  est  mise  en  œuvre  dans  le  cadre  d’un  projet  et 
+donne  lieu  à  une  restitution  collective  permettant  au  groupe  d’élèves  de  présenter  leurs 
+analyses et leurs propositions. 
+Si  le  monde  de  l’entreprise  est  confronté  en  permanence  à  l’obligation  de  résultat, 
+l’enseignement  optionnel  de  CIT  propose  une  démarche  de  création  technologique  et  peut 
+ainsi  se  limiter  à  la  phase  purement  créative.  De  ce  fait,  le  projet  peut  être  issu 
+d’améliorations  à  apporter  à  des  produits  existants,  conduire  à  un  détournement  de  la 
+fonction initiale d’un objet ou encore à l’augmentation de sa fonctionnalité ou à l’amélioration 
+de son design. Dans un souci d’efficience, une formulation simple des objectifs assignés au 
+projet,  excluant  le  recours  aux  outils  normalisés,  est  suffisante  pour  décrire  le  cahier  des 
+charges. 
+
+  Communiquer ses intentions 
+L’innovation  et  la  créativité  technologique  impliquent  un  travail  collaboratif  et  de  réelles 
+capacités  de  communication,  entre  acteurs,  à  l’interne,  pour  échanger  au  sein  d’une 
+structure et à l’externe pour expliquer et convaincre. 
+Les  élèves  doivent  structurer  leur  analyse,  expliquer  leurs  choix  et  construire  un 
+argumentaire, afin de rendre compte en temps réel du déroulement d’une réflexion ou d’une 
+activité  menée  en  groupe.  L’utilisation  d’outils  heuristiques  facilite  la  structuration  des 
+réflexions et la présentation collective (diaporama, note de synthèse, affiche, compte rendu 
+de projet, etc.). 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+  
+  
+ 
+ 
+Compétences travaillées 
+
+Le  tableau  ci-dessous  dresse  la  liste  des  compétences  et  des  notions  qui  sont  mobilisées 
+par les élèves lors des projets. 
+
+Compétences détaillées  Notions, démarches et outils  
+
+Commentaires 
+
+Mettre en œuvre une démarche de projet et de créativité 
+
+Travailler en équipe. 
+
+Organisation du travail 
+collaboratif. 
+
+Sélectionner des références 
+et des ressources 
+documentaires spécifiques. 
+S’initier au vocabulaire de 
+l’innovation et de la créativité. 
+
+Marché, compétitivité, besoin, 
+fonction, exigences, coût et 
+valeur. 
+Amélioration, innovation de 
+rupture, découvertes. 
+
+Les notions et les étapes 
+sont introduites en fonction 
+des besoins. 
+Cet enseignement a 
+uniquement pour fonction 
+d’identifier des règles et des 
+principes stimulant ou 
+orientant la créativité et 
+l’innovation à travers 
+quelques projets. 
+Un travail en équipe doit 
+permettre les échanges et la 
+prise en considération des 
+propositions de chacun. La 
+démarche retenue vise à 
+révéler à l’élève sa créativité 
+propre ainsi que l’apport du 
+collectif. 
+Réalisation d’une maquette 
+à partir d’éléments existants, 
+modification d’un composant 
+(comme la création d’une 
+pièce nouvelle prototypée ou 
+un agencement particulier, la 
+modification d’un programme 
+de commande, l’amélioration 
+d’une solution technique, 
+etc.). 
+
+Outils de formalisation d’une 
+démarche. 
+Mobilisation de l’intuition. 
+
+Cycle de vie d’un produit. 
+Contraintes dans le 
+développement d’un produit. 
+
+Niveaux de présentation de 
+solutions : maquette, 
+prototype, produit. 
+
+Outils de communication : 
+cartes mentales, croquis, 
+schémas, descriptions d’un 
+comportement, représentations 
+numériques. 
+
+Pour les produits ou les 
+« ouvrages », la maquette 
+numérique est 
+essentiellement exploitée en 
+lecture, sauf pour des 
+modifications simples.  
+
+Utiliser des méthodes de 
+créativité. 
+Appréhender les 
+méthodologies en design 
+de produit. 
+Formuler des propositions et 
+retenir les solutions les plus 
+pertinentes. 
+
+Identifier les contraintes 
+réglementaires, 
+environnementales et 
+économiques liées à un 
+contexte donné. 
+
+Élaborer une solution 
+innovante. 
+
+Présenter et argumenter 
+
+Exprimer une réflexion, un 
+principe, une idée, une 
+solution technique. 
+Utiliser des outils de 
+communication. 
+Rendre compte, sous forme 
+écrite ou orale, des résultats 
+d’une analyse, d’une 
+expérience, d’une recherche 
+et d’une réflexion. 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+  
+  
+ 
+ 
+Sciences de l’ingénieur 
+
+Finalités 
+
+Les activités permettant de relever un « défi » visent à : 
+
+  appréhender la place de l’expérimentation pour valider un choix technologique ; 
+  adopter une démarche collective de résolution de problème. 
+
+Elles permettent d’aborder les compétences et démarches ci-après. 
+
+  Raisonner, pratiquer une démarche scientifique, expérimenter 
+Dans  le cadre d’une  démarche  de  résolution de  problème technique,  les élèves  produisent 
+un travail personnel et d’équipe qui doit intégrer obligatoirement une production (expérience, 
+exploitation  de  données,  modélisation,  etc.)  et  aboutir  à  une  forme  de  communication 
+structurée et rigoureuse. 
+Les activités proposées doivent conduire l’élève à comprendre que sciences et technologie 
+sont étroitement liées dans l’évolution des produits qui répondent à un problème de société. 
+L’activité expérimentale offre la possibilité de répondre à une problématique par la mise au 
+point  d’un  protocole,  sa  réalisation  et  l’observation  des  écarts  entre  théorie,  modèle  et 
+résultats expérimentaux. Celle-ci permet aux élèves de confronter leurs représentations avec 
+la  réalité.  Elle  développe  l'esprit  d'initiative,  la  curiosité  et  le  sens  critique.  Elle  est 
+indissociable  d’une  pratique  pédagogique  assurant  des  conditions  indispensables  à  une 
+expérimentation authentique et sûre. 
+Ainsi,  les  élèves  doivent  pouvoir  élaborer  et mettre en œuvre  un  protocole comportant  des 
+expériences  afin  de  vérifier  leurs  hypothèses,  construire  l’environnement  technique  de 
+l’expérimentation,  réaliser  et  analyser  les  mesures,  en  estimer  la  précision  et  écrire  les 
+résultats de façon adaptée. 
+
+  Présenter et argumenter 
+La  résolution  d’un  problème  technique  et  les  expérimentations  associées  impliquent  un 
+travail collaboratif et de réelles capacités de communication, entre acteurs, à l’interne, pour 
+échanger au sein d’une structure, et à l’externe pour expliquer et convaincre. 
+Les  élèves  doivent  structurer  leur  analyse,  expliquer  leurs  choix  et  construire  un 
+argumentaire, afin de rendre compte en temps réel du déroulement d’une réflexion ou d’une 
+activité  menée  en  groupe.  L’utilisation  d’outils  heuristiques  facilite  la  structuration  des 
+réflexions et la présentation collective (diaporama, note de synthèse, affiche, compte rendu 
+d’expérience, etc.). 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+  
+  
+ 
+ 
+Compétences travaillées 
+
+Le tableau ci-dessous dresse la liste des compétences et des notions qui sont abordées par 
+les élèves. 
+
+Compétences détaillées 
+
+Notions, démarches, outils 
+
+Commentaires 
+
+Raisonner, pratiquer une démarche scientifique, expérimenter 
+
+Travailler en équipe. 
+
+Organisation du travail 
+collaboratif. 
+
+Sélectionner des références et 
+des ressources documentaires 
+spécifiques. 
+
+Marché, compétitivité, besoin, 
+fonction, exigences, coût et 
+valeur.  
+
+Les notions et les étapes 
+sont introduites en fonction 
+des besoins. 
+Un travail en équipe doit 
+permettre les échanges et 
+la prise en considération 
+des propositions de 
+chacun. La démarche 
+retenue vise à valoriser 
+l’apport du collectif. 
+
+Les résultats 
+d’expérimentations 
+pourront faire l’objet 
+d’un tracé de courbes. 
+
+Démarche scientifique. 
+Mesure de grandeurs 
+physiques, précision, écarts. 
+Tableur, représentation 
+graphique. 
+
+Lois fondamentales. 
+
+Niveaux de présentation de 
+solutions expérimentales : 
+maquette, prototype. 
+Appareils de mesure. 
+
+Réaliser un support 
+d’expérimentation à partir 
+d’éléments existants ou 
+de fabrication simple. 
+
+Outils de communication : cartes 
+mentales, croquis, schémas, 
+descriptions d’un comportement, 
+représentations numériques. 
+
+Pour les produits ou les 
+« ouvrages », la maquette 
+numérique est 
+essentiellement exploitée 
+en lecture, sauf pour des 
+modifications simples.  
+
+Mettre au point un protocole 
+expérimental (formuler des 
+hypothèses, hiérarchiser, 
+sélectionner, expliciter, 
+contextualiser). 
+Manipuler et expérimenter. 
+Simuler à partir d’un modèle 
+donné. 
+Analyser les résultats obtenus. 
+
+Identifier un principe 
+scientifique en rapport avec le 
+fonctionnement d’un système. 
+
+Matérialiser un support 
+d’expérimentation. 
+
+Présenter et argumenter 
+
+Exprimer une réflexion, un 
+principe, une idée, une 
+solution technique. 
+Utiliser des outils de 
+communication. 
+Rendre compte, sous forme 
+écrite ou orale, des résultats 
+d’une analyse, d’une 
+expérience, d’une recherche 
+et d’une réflexion. 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

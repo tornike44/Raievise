@@ -1,0 +1,1085 @@
+Annexe 
+
+Programme de sciences de la vie et de la Terre de seconde 
+générale et technologique 
+
+Sommaire 
+
+Préambule 
+
+Les objectifs de l’enseignement des sciences de la vie et de la Terre au 
+
+lycée 
+
+Mise en œuvre du programme 
+
+Le numérique et les SVT 
+
+Liens avec les autres disciplines scientifiques 
+
+Compétences travaillées 
+
+Thématiques étudiées 
+
+La Terre, la vie et l’organisation du vivant 
+
+Les enjeux contemporains de la planète 
+
+Corps humain et santé 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+ 
+ 
+ 
+Préambule 
+
+Les objectifs de l’enseignement des sciences de la vie et de la Terre au 
+lycée 
+
+L’enseignement des sciences de la  vie et de la Terre (SVT) au lycée  vise à dispenser une 
+formation  scientifique  solide.  Dans  le  prolongement  du  collège,  il  poursuit  la  formation 
+civique  des  élèves.  Discipline  en  prise  avec  l’évolution  des  connaissances  et  des 
+technologies,  les  SVT  permettent  à  la  fois  la  compréhension  d’objets  et  de  méthodes 
+scientifiques  et  l’éducation  en  matière  d’environnement,  de  santé,  de  sécurité,  contribuant 
+ainsi à la formation des futurs citoyens. 
+Dans ses programmes, la discipline porte trois objectifs majeurs : 
+
+ 
+
+renforcer  la  maîtrise  de  connaissances  validées  scientifiquement  et  de  modes  de 
+raisonnement propres aux sciences et, plus généralement, assurer l’acquisition d’une 
+culture  scientifique  assise  sur  les  concepts  fondamentaux  de  la  biologie  et  de  la 
+géologie ; 
+
+  participer à la formation de l’esprit critique et à l’éducation civique en appréhendant le 
+
+monde actuel et son évolution dans une perspective scientifique ; 
+
+  préparer les élèves qui choisiront une formation scientifique à une poursuite d’études 
+
+dans l’enseignement supérieur et, au-delà, aux métiers auxquels elle conduit. 
+
+Pour  atteindre  ces  objectifs,  le  programme  de  SVT  en  classe  de  seconde  est  organisé  en 
+trois grandes thématiques (chacune déclinée en plusieurs thèmes) : 
+
+La Terre, la vie et l’évolution du vivant 
+
+La  science  construit,  à  partir  de  méthodes  de  recherche  et  d’analyse  rigoureuses  fondées 
+sur l’observation de la Terre et du monde vivant, une explication cohérente de leur état, de 
+leur fonctionnement et de leur histoire. 
+
+Enjeux contemporains de la planète 
+
+Les  élèves  appréhendent  les  grands  enjeux  auxquels  l’humanité  sera  confrontée  au  XXIe 
+siècle, ceux de l’environnement, du développement durable, de la gestion des ressources et 
+des  risques,  etc.  Pour  cela,  ils  s’appuient  sur  les  démarches  scientifiques  de  la  biologie  et 
+des géosciences. 
+
+Le corps humain et la santé 
+
+Les thèmes retenus permettent aux élèves de mieux appréhender le fonctionnement de leur 
+organisme  et  de  saisir  comment  la  santé  se  définit  aujourd’hui  dans  une  approche globale 
+intégrant  l’individu  dans  son  environnement  et  prenant  en  compte  les  enjeux  de  santé 
+publique. 
+Dans ces trois thématiques, l’exercice de l’esprit critique est particulièrement nécessaire face 
+à la quantité croissante de mises en question des apports des sciences. 
+Ces  trois  thématiques  permettent  également  aux  élèves  de  découvrir  les  métiers  liés  aux 
+sciences fondamentales (recherche, enseignement), les métiers actuels ou émergents dans 
+les  sciences  de  l’environnement  et  du  développement  durable,  en géosciences,  en gestion 
+des  ressources  et  des  risques,  ainsi  que  les  métiers  liés  aux  domaines  de  la  santé  et  du 
+sport. 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+Mise en œuvre du programme 
+
+Le  programme  est  conçu  pour  laisser  une  large  part  à  l’initiative  du  professeur  et/ou  de 
+l’équipe disciplinaire, et ainsi préserver leur liberté pédagogique qui porte sur : 
+
+ 
+ 
+ 
+ 
+
+les modalités didactiques ; 
+l’ordre dans lequel seront étudiés les thèmes et introduites les notions ; 
+les exemples choisis ; 
+le  degré  d’approfondissement  pour  aborder  tel  ou  tel  sujet,  tout  en  préservant  la 
+logique d’un traitement équilibré du programme. 
+
+Le programme détermine les connaissances et les capacités que les élèves doivent acquérir 
+pour  réussir  dans  leur  poursuite  d’études,  quelle  qu’elle  soit.  Les  activités  expérimentales 
+occupent  une  place  centrale  en  SVT :  pour  répondre  à  un  problème  scientifique,  l’élève 
+examine  la  validité  d’une  hypothèse  par  la  mise  au  point  d’un  protocole ;  il  confronte  les 
+résultats  de  l’expérience  aux  attentes  théoriques  ou  à  un  modèle.  Les  études  et 
+prélèvements sur le terrain favorisent les apprentissages : les élèves mettent en œuvre des 
+stratégies  d’observation,  d’échantillonnage,  de  recueil  de  données,  qu’ils  peuvent  ensuite 
+traiter avec des outils d’analyse. Activités expérimentales et sorties favorisent l’éducation à la 
+sécurité et aux risques par le respect des règles de sécurité indispensables. 
+
+Le numérique et les SVT 
+
+Les  SVT  requièrent  l’usage  des  outils  numériques  généralistes  (Internet,  tableurs)  et  le 
+recours  à  l’expérimentation  assistée  par  ordinateur,  qui  peut  se  prolonger  par  l’exploitation 
+de  capteurs  connectés  à  des  microcontrôleurs  programmables.  Elles  doivent  aussi 
+développer  de  nouvelles  compétences  numériques  chez  les  élèves :  l’usage  des  bases  de 
+données  scientifiques,  de  systèmes  d’informations  géoscientifiques,  de  la  modélisation 
+numérique, de la programmation, des calculs quantitatifs, voire de la réalité virtuelle et de la 
+réalité augmentée. Ce sont autant de possibilités offertes aux lycéens de manipuler les outils 
+actuels des sciences du vivant et de la Terre, qui leur ouvrent de nouvelles perspectives de 
+formation, comme la bio-informatique ou l’exploitation de données. 
+Une formation scientifique développe les compétences d’analyse critique pour permettre aux 
+élèves  de  vérifier  les  sources  d’information  et  leur  légitimité,  puis  de  distinguer  les 
+informations  fiables.  Ces  démarches  sont  particulièrement  importantes  en  SVT,  qui  font 
+souvent l’objet de publications « pseudo-scientifiques », voire idéologiques : les professeurs 
+de  SVT  contribuent  à  l’éducation  des  élèves  aux  médias  et  à  l’information  par  un  travail 
+régulier d’approche critique des informations. 
+
+Liens avec les autres disciplines scientifiques 
+
+Les  SVT  intègrent  naturellement  dans  leurs  pratiques  les  acquis  des  autres  disciplines 
+scientifiques,  en  particulier  la  physique-chimie  et  l’informatique,  et  utilisent  les  concepts  et 
+outils  mathématiques.  Le  programme mobilise  les  apports  de  ces  disciplines  dans  d’autres 
+contextes,  au  nom  d’autres  usages  et  d’autres  intérêts.  Une  attention  particulière  doit  être 
+portée à la cohérence du vocabulaire scientifique employé d’une discipline à l’autre. 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+Compétences travaillées 
+
+Compétences 
+
+Exemples de capacités associées 
+
+Pratiquer des 
+démarches 
+scientifiques 
+
+-  Formuler et résoudre une question ou un problème scientifique. 
+-  Concevoir et mettre en œuvre des stratégies de résolution. 
+-  Observer, questionner, formuler une hypothèse, en déduire ses 
+
+conséquences testables ou vérifiables, expérimenter, raisonner avec 
+rigueur, modéliser. Justifier et expliquer une théorie, un 
+raisonnement, une démonstration. 
+
+-  Interpréter des résultats et en tirer des conclusions. 
+-  Comprendre le lien entre les phénomènes naturels et le langage 
+
+mathématique. 
+
+-  Comprendre qu’un effet peut avoir plusieurs causes. 
+-  Savoir distinguer, dans la complexité apparente des phénomènes 
+
+observables, des éléments et des principes fondamentaux. 
+
+-  Savoir distinguer ce qui relève d’une croyance ou d’une opinion et 
+
+ce qui constitue un savoir scientifique. 
+
+Concevoir, créer, 
+réaliser  
+
+-  Identifier et choisir des notions, des outils et des techniques, ou des 
+modèles simples pour mettre en œuvre une démarche scientifique. 
+
+-  Concevoir et mettre en œuvre un protocole. 
+
+Utiliser des outils et 
+mobiliser des 
+méthodes pour 
+apprendre 
+
+Communiquer et 
+utiliser le 
+numérique 
+
+Adopter un 
+comportement 
+éthique et 
+responsable 
+
+-  Apprendre à organiser son travail. 
+-  Identifier et choisir les outils et les techniques pour garder trace de 
+
+ses recherches (à l’oral et à l’écrit). 
+
+-  Recenser, extraire, organiser et exploiter des informations à partir 
+
+de documents en citant ses sources, à des fins de connaissance et 
+pas seulement d’information. 
+
+-  Coopérer et collaborer dans une démarche de projet. 
+
+-  Communiquer sur ses démarches, ses résultats et ses choix, en 
+
+argumentant. 
+
+-  Communiquer dans un langage scientifiquement approprié : oral, 
+
+écrit, graphique, numérique. 
+-  Utiliser des outils numériques. 
+-  Conduire une recherche d’informations sur internet en lien avec une 
+question ou un problème scientifique, en choisissant des mots-clés 
+pertinents, et en évaluant la fiabilité des sources et la validité des 
+résultats. 
+
+-  Utiliser des logiciels d’acquisition, de simulation et de traitement de 
+
+données. 
+
+-  Identifier l’incidence (bénéfices et nuisances) des activités humaines 
+
+sur l’environnement à différentes échelles. 
+
+-  Fonder ses choix de comportement responsable vis-à-vis de sa 
+
+santé ou de l’environnement en prenant en compte des arguments 
+scientifiques. 
+
+-  Comprendre les responsabilités individuelle et collective en matière 
+
+de préservation des ressources de la planète (biodiversité, 
+ressources minérales et ressources énergétiques) et de santé. 
+-  Participer à l’élaboration de règles de sécurité́  et les appliquer au 
+
+laboratoire et sur le terrain. 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+ 
+Thématiques étudiées 
+
+La Terre, la vie et l’organisation du vivant 
+
+  L’organisation fonctionnelle du vivant 
+Les  niveaux  d’organisation  des  êtres  vivants  pluricellulaires  sont  explorés.  La  notion  de 
+cellule spécialisée, avec ses caractéristiques structurelles et métaboliques, est reliée à une 
+expression génétique spécifique. 
+L’étude  des  échanges  de  matière  et  d’énergie  entre  les  cellules  constitue  une  première 
+approche des relations existantes entre les cellules d’un organisme, entre les organismes et 
+entre les êtres vivants et leur milieu. 
+Ce thème appelle des activités pratiques variées qui s’appuient sur les techniques actuelles 
+d’études et de représentation de l’organisation fonctionnelle des êtres vivants, de la cellule à 
+l’organisme. L’étude des interactions entre les organismes s’étend à l’étude de la biodiversité 
+à différentes échelles et du fonctionnement des écosystèmes. 
+
+L’organisme pluricellulaire, un ensemble de cellules spécialisées 
+
+Connaissances 
+
+Chez les organismes unicellulaires, toutes les fonctions sont assurées par une seule cellule. 
+Chez  les  organismes  pluricellulaires,  les  organes  sont  constitués  de  cellules  spécialisées 
+formant des tissus, et assurant des fonctions particulières. 
+Toutes  les  cellules  d’un  organisme  sont  issues  d’une  cellule  unique  à  l’origine  de  cet 
+organisme. Elles possèdent toutes initialement la même information génétique organisée en 
+gènes  constitués  d’ADN  (acide  désoxyribonucléique).  Cependant,  les  cellules  spécialisées 
+n’expriment qu’une partie de l’ADN. 
+Notions  fondamentales :  cellule,  matrice  extracellulaire/paroi,  tissu,  organe ;  organite, 
+spécialisation  cellulaire,  ADN,  double  hélice,  nucléotides  (adénine,  thymine,  cytosine, 
+guanine), complémentarité, gène, séquence. 
+Objectifs : les élèves apprennent que les cellules spécialisées ont une fonction particulière 
+dans l’organisme, en lien avec leur organisation et que la structure moléculaire de l’ADN lui 
+permet de porter une information. Dans le cadre de l’étude des cellules organisées en tissus, 
+il est attendu que l’existence d’une matrice extracellulaire soit connue : elle est constituée de 
+différentes molécules qui,  dans  leur  grande  majorité,  permettent  l’adhérence  cellulaire.  Les 
+molécules impliquées ne doivent pas être détaillées. 
+
+Capacités 
+
+-  Réaliser et /ou observer des préparations microscopiques montrant des cellules animales 
+
+ou végétales. 
+
+-  Observer et analyser des images de microscopie électronique. 
+-  Distinguer  les  différentes  échelles  du  vivant  (molécules,  cellules,  tissus,  organes, 
+
+organisme) en donnant l’ordre de grandeur de leur taille. 
+
+Précisions :  un  animal  et  une  plante  pourront  servir  de  support  à  l’étude.  Ainsi,  la 
+coexistence  ou  non  de  cellules  autotrophes  et  de  cellules  hétérotrophes  dans  un  même 
+organisme pourrait être établie en relation avec le thème suivant. 
+La  division  cellulaire,  déjà  abordée  au  collège  (cycle 4),  ne  donne  pas  lieu  à  des 
+développements supplémentaires. La mitose sera étudiée dans l’enseignement de spécialité 
+proposé au cycle terminal. 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+Connaissances 
+
+Le métabolisme des cellules 
+
+Pour  assurer  les  besoins  fonctionnels  d’une  cellule,  de  nombreuses  transformations 
+biochimiques  s’y  déroulent :  elles  constituent  son  métabolisme.  Une  voie  métabolique  est 
+une  succession  de  réactions  biochimiques  transformant  une  molécule  en  une  autre.  Le 
+métabolisme  dépend  de 
+(organites, 
+macromolécules dont les enzymes). 
+Notions fondamentales : métabolisme, autotrophe, hétérotrophe, organites, enzymes. 
+Objectifs : l’étude de quelques réactions du métabolisme, dont la photosynthèse, révèle que 
+les  êtres  vivants  échangent  de  la  matière  et  de  l’énergie  avec  leur  environnement  (milieu, 
+autre  organisme).  Les  voies  métaboliques  sont 
+les  molécules 
+intermédiaires des métabolismes. 
+
+l’équipement  spécialisé  de  chaque  cellule 
+
+interconnectées  par 
+
+Capacités 
+
+-  Expérimenter des réactions du métabolisme pour les caractériser. 
+-  Mettre en œuvre des expériences pour identifier les substrats et produits du métabolisme. 
+-  Schématiser  des  flux  de  matière  et  d’énergie  au  sein  d’un  organisme,  entre  les 
+
+organismes et avec le milieu. 
+
+Précisions :  le  métabolisme  est  d’abord  envisagé  au  niveau  cellulaire.  La  nature,  les 
+mécanismes d’intervention des enzymes seront abordés dans le cadre de l’enseignement de 
+spécialité proposé au cycle terminal. 
+
+  Biodiversité, résultat et étape de l’évolution 
+Ce thème prend appui sur l’étude de la biodiversité actuelle et passée à différentes échelles 
+(diversité des écosystèmes, des espèces et des individus). L’origine de la diversité des êtres 
+vivants est expliquée par l’étude des mécanismes de l’évolution qui s’exercent à l’échelle des 
+populations,  dont  la  sélection  naturelle  et  la  dérive  génétique,  ainsi  que  la  spéciation.  Elle 
+montre  aussi  que  les  temps  de  l’évolution  sont  divers  et  liés  au  hasard  (crise  biologique, 
+dérive  génétique).  Enfin,  elle  aborde  la  sélection  sexuelle  et  son  importance  en  termes 
+évolutifs, en lien avec la communication dans une communauté d’organismes. 
+Ce thème est l’occasion d’observer concrètement le vivant. Il s’inscrit dans la continuité de 
+l’étude  de  l’évolution  biologique  commencée  au  collège  et  poursuivie  dans  l’enseignement 
+de spécialité du cycle terminal. 
+
+Connaissances 
+
+Les échelles de la biodiversité 
+
+Le terme de biodiversité est utilisé pour désigner la diversité du vivant et sa dynamique aux 
+différentes  échelles,  depuis  les  variations  entre  membres  d'une  même  espèce  (diversité 
+génétique) jusqu'aux différentes espèces et aux écosystèmes composant la biosphère. 
+La  notion  d’espèce,  qui  joue  un  grand  rôle  dans  la  description  de  la  biodiversité  observée, 
+est un concept créé par l’être humain. 
+Au sein de chaque espèce, la diversité des individus repose sur la variabilité de l’ADN : c’est 
+la  diversité  génétique.  Différents  allèles  d'un  même  gène  coexistent  dans  une  même 
+population, ils sont issus de mutations qui se sont produites au cours des générations. 
+Notions fondamentales : biodiversité, échelles de biodiversité, variabilité, mutation, allèle. 
+Objectifs :  les  acquis  du  collège  sont  mobilisés  par  l’étude  de  la  biodiversité  à  différentes 
+échelles. La définition de la notion d’espèce a pour principal critère le fait que les individus 
+d’une même espèce peuvent se reproduire entre eux et engendrent une descendance viable 
+et fertile. 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+Capacités 
+
+-  Au  cours  de  sorties  de 
+
+terrain, 
+
+identifier,  quantifier  et  comparer 
+
+la  biodiversité 
+
+interindividuelle, spécifique et écosystémique. 
+
+-  Mettre en œuvre des protocoles d’échantillonnage statistique permettant des descriptions 
+
+rigoureuses concernant la biodiversité. 
+
+-  Suivre  une  campagne  d’études  de  la  biodiversité  (expéditions,  sciences  participatives, 
+
+etc.) et/ou y participer. 
+
+-  Caractériser la variabilité phénotypique chez une espèce commune animale ou végétale et 
+
+envisager les causes de cette variabilité. 
+
+-  Utiliser  un  logiciel  de  comparaison  de  séquence  d’ADN  pour  identifier  et  quantifier  la 
+
+variabilité allélique au sein d’une espèce ou entre deux espèces apparentées. 
+
+Précisions : la notion de biodiversité est étudiée à travers un nombre limité d’exemples ; on 
+ne recherche pas l’exhaustivité. 
+
+Connaissances 
+
+La biodiversité change au cours du temps. 
+
+La  biodiversité  évolue  en  permanence.  Cette  évolution  est  observable  sur  de  courtes 
+échelles de temps, tant au niveau génétique que spécifique. 
+L’étude de la biodiversité du passé par l’examen des fossiles montre que l’état actuel de la 
+biodiversité  correspond  à  une  étape  de  l’histoire  du  vivant.  Ainsi,  les  organismes  vivants 
+actuels ne représentent-ils qu’une infime partie des organismes ayant existé depuis le début 
+de la vie. 
+Les  crises  biologiques  sont  un  exemple  de  modification  importante  de  la  biodiversité 
+(extinctions massives suivies de diversification). 
+De  nombreux  facteurs,  dont  l’activité  humaine,  provoquent  des  modifications  de  la 
+biodiversité. 
+Notions  fondamentales :  espèces,  variabilité,  crise  biologique,  extinction  massive  et 
+diversification. 
+Objectifs :  un  lien  est  établi  entre  le  constat  d’une  évolution  rapide  au  travers  d’exemples 
+actuels et les variations de la biodiversité planétaire à l’échelle des temps géologiques et en 
+interaction  avec  les  changements  environnementaux.  Les  élèves  apprennent  que  la 
+biodiversité  évolue  en  permanence  et  que  son  évolution  inclut  des  événements  aléatoires. 
+On  présente  quelques  causes  possibles  d’une  crise  biologique  à  l’origine  de  perturbations 
+importantes du fonctionnement des écosystèmes. 
+
+Capacités 
+
+-  Extraire  et  mettre  en  relation  des  informations  montrant  des  exemples  actuels  de 
+diversifications génétiques ou  de  spéciations (populations de  moustiques  résistantes  aux 
+insecticides ; spéciation de pinsons des Galapagos, etc.). 
+
+-  Étudier l’évolution de la biodiversité durant la crise Crétacé-Paléocène notamment avec le 
+
+groupe des archosauriens et/ou les foraminifères marins (micro-organismes). 
+
+-  Envisager  les  effets  des  pratiques  humaines  contemporaines  sur  la  biodiversité  (6e  crise 
+biologique)  comme  un  exemple  d’interactions  entre  espèces  dirigeant  l’évolution  de  la 
+biodiversité. 
+
+-  Mobiliser  les  acquis  du  collège  sur  l’arbre  du  vivant  en  positionnant  par  exemple  des 
+organismes  actuels  ou  fossiles  rencontrés  lors  d’activités  ou  sorties  (muséums  d’histoire 
+naturelle, etc.). 
+
+Précisions : les deux exemples de crises suggérées sont : (1) la limite Crétacé-Paléocène 
+(dont les causes possibles [impact météoritique et crise volcanique] seront citées comme les 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+origines les plus probables sans être développées) et (2) la crise actuelle de la biodiversité 
+souvent appelée par les auteurs scientifiques « 6e crise biologique ». 
+
+L’évolution de la biodiversité au cours du temps s’explique par des forces évolutives 
+s’exerçant au niveau des populations 
+
+Connaissances 
+
+La dérive génétique est une modification aléatoire de la fréquence des allèles au sein d'une 
+population  au  cours  des  générations  successives.  Elle  se  produit  de  façon  plus  rapide 
+lorsque l’effectif de la population est faible. 
+La  sélection  naturelle  résulte  de  la  pression  du  milieu  et  des  interactions  entre  les 
+organismes.  Elle  conduit  au  fait  que  certains  individus  auront  une  descendance  plus 
+nombreuse que d’autres dans certaines conditions. 
+Toutes  les  populations  se  séparent  en  sous-populations  au  cours  du  temps  à  cause  de 
+(mutations 
+facteurs  environnementaux 
+conduisant à des incompatibilités et dérives). Cette séparation est à l'origine de la spéciation. 
+Notions  fondamentales :  maintien  des  formes  aptes  à  se  reproduire,  hasard/aléatoire, 
+sélection naturelle, effectifs, fréquence allélique, variation, population, ressources limitées. 
+Objectifs : on illustre la dérive génétique et la sélection sur une échelle de temps court afin 
+de montrer que l’évolution peut être rapide. 
+
+(séparations  géographiques)  ou  génétiques 
+
+Capacités 
+
+-  Utiliser  un  logiciel  de  modélisation  et/ou  extraire  et  mettre  en  relation  des  informations 
+
+pour illustrer la sélection naturelle et la dérive génétique sur des temps courts. 
+
+-  Réfléchir  sur  les  conséquences  de  l’apparition  aléatoire  de  mutants  sur  la  dynamique 
+
+d’une population. 
+
+-  Situer dans le temps quelques grandes découvertes scientifiques sur l’évolution. 
+-  Expliciter la démarche sur laquelle repose une théorie scientifique à partir du travail mené 
+
+sur l’évolution dans ce thème. 
+
+Précisions :  sélection  et  dérive  génétique  sont  abordées  à  partir  d’un  nombre  limité 
+d’exemples. 
+
+Communication intra-spécifique et sélection sexuelle 
+
+Connaissances 
+
+La communication dans le monde vivant consiste en la transmission d’un message entre un 
+organisme  émetteur  et  un  organisme  récepteur  pouvant  modifier  son  comportement  en 
+réponse à ce message. 
+La  communication  s’inscrit  dans  le  cadre  d’une  fonction  biologique  (nutrition,  reproduction, 
+défense,  etc.).  Il  existe  une  grande  diversité  de  modalités  de  communication  (chimique, 
+biochimique, sonore, visuelle, hormonale). 
+Dans  le  monde  animal,  la  communication  interindividuelle  et  les  comportements  induits 
+peuvent  contribuer  à  la  sélection  naturelle  à  travers  la  reproduction.  C’est  le  cas  pour  la 
+sélection sexuelle entre partenaires (majoritairement faite par les femelles). 
+Des  difficultés  dans  la  réception  du  signal  peuvent  générer  sur  le  long  terme  un  isolement 
+reproducteur  entre  organismes  de  la  même  espèce  et  être  à  l’origine  d’un  événement  de 
+spéciation. 
+Notions fondamentales : communication, émetteur, récepteur, comportement, vie solitaire, 
+vie en société, dimorphisme sexuel. 
+Objectifs : on évoque la diversité des modalités de communication sans en décrire finement 
+les mécanismes. On illustre d’autres éléments de sélection naturelle (sélection sexuelle). 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+Capacités 
+
+-  Mettre  en  œuvre  une  stratégie  d’étude  d’un  exemple  de  communication  animale  intra-
+
+spécifique (si possible en conditions réelles). 
+
+-  Analyser  des  expériences  montrant  comment  certains  modes  de  communication  ont  été 
+
+sélectionnés, que ce soit pour la survie ou la reproduction. 
+
+-   Analyser avec un regard critique l’avantage de certains caractères sexuels extravagants 
+du point de vue de la sélection naturelle : développement d’attributs liés à la reproduction 
+chez le mâle (queue du paon, cornes des bovidés ou des scarabées, etc.). 
+
+Précisions :  les  caractéristiques  de  la  communication  entre  organismes  sont  mises  en 
+évidence chez les animaux, dans le contexte de la sélection sexuelle, à partir d’exemples au 
+choix du professeur. On n’attend pas d’exhaustivité. 
+
+Les enjeux contemporains de la planète 
+
+  Géosciences et dynamique des paysages 
+Dans  ce  thème,  l’étude  des  paysages  actuels  permet  de  comprendre  les  mécanismes  de 
+leur  évolution,  le  caractère  inexorable  de  l’érosion  et  l’importance  des  mécanismes 
+sédimentaires. Par de nombreuses manipulations, les élèves abordent également, dans une 
+première  approche,  l’étude  pétrologique  qui  sera  ensuite  enrichie  dans  l’enseignement  de 
+spécialité. Enfin, ils saisissent l’intérêt des géosciences pour comprendre le monde qui nous 
+entoure  mais  aussi  pour  identifier  les  ressources  utilisables  par  l’humanité  et  prévenir  les 
+risques. 
+
+Connaissances 
+
+L’érosion, processus et conséquences 
+
+L’érosion  affecte  la  totalité  des  reliefs  terrestres.  L’eau  est  le  principal  facteur  de  leur 
+altération  (modification  physique  et  chimique  des  roches)  et  de  leur  érosion  (ablation  et 
+transport des produits de l’altération). 
+L’altération des roches dépend de différents facteurs dont la nature des roches (cohérence, 
+composition), le climat et la présence de végétation. 
+Une partie des produits d’altération, solubles et/ou solides, sont transportés jusqu’au lieu de 
+leur sédimentation, contribuant à leur tour à la modification du paysage. 
+Notions fondamentales : érosion, altération, modes de transports, sédiments. 
+Objectifs : les élèves comprennent qu’un paysage change inéluctablement avec le temps du 
+fait de l’érosion ; ils identifient les agents d’érosion et leur importance. 
+
+Capacités 
+
+-  Décrire  la  composante  géologique  d’un  paysage  local  avec  ses  reliefs,  ses  pentes  et 
+ruptures  de  pente,  et  proposer  des  hypothèses  sur  leurs  origines.  Relier  reliefs  et 
+circulation de l’eau. 
+
+-  Extraire  des  données,  issues  de  l’observation  d’un  paysage  local,  de  manière  directe 
+
+(observations, relevés, etc.) et/ou indirecte (imagerie satellitaire). 
+
+-  Relier la nature de la roche à sa résistance à l’altération. 
+-  Relier l’intensité de l’altération avec l’importance du relief et les conditions climatiques. 
+-  Étudier  et  modéliser  les  mécanismes  de  l’érosion  des  paysages  (altération  physico-
+
+chimique, transport). 
+
+-  Étudier  et  identifier  la  fraction  solide  et  les  éléments  solubles  transportés  par  les  cours 
+
+d’eau. 
+
+-  Relier la puissance d’un cours d’eau à sa capacité de transport des éléments solides. 
+-  Identifier par des tests chimiques des éléments solubles issus de l’altération. 
+-  Relier l’intensité de l’érosion avec la dynamique du vivant et des sols. 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+Précisions : Il ne s’agit pas de faire un catalogue exhaustif des différents paysages mais de 
+choisir  un  paysage  local  et  d’essayer  d’en  comprendre  l’origine.  Une  étude  exhaustive  des 
+processus, des produits de l’érosion et de leur variété suivant les climats n’est pas attendue. 
+
+Connaissances 
+
+Sédimentation et milieux de sédimentation 
+
+Il  existe  une  diversité  de  roches  sédimentaires  détritiques  (conglomérats,  grès,  pélites)  en 
+fonction de la nature des dépôts. 
+Les roches formées dépendent des apports et du milieu de sédimentation. 
+Ces  roches  sont  formées  par  compaction  et  cimentation  des  dépôts  sédimentaires  suite  à 
+l’enfouissement en profondeur. 
+Notions fondamentales : sédiments, roche détritique, milieu de sédimentation. 
+Objectifs :  on  décrit  dans  ce  thème  le  passage  du  sédiment  à  la  roche  sédimentaire  en 
+prenant l’exemple des roches détritiques. 
+
+Capacités 
+
+-  Étudier,  notamment  en  microscopie,  quelques  roches  sédimentaires  détritiques  pour  en 
+
+déduire la nature des particules sédimentaires, leur morphologie et la nature du liant. 
+
+-  Reconstituer  un  paléo-environnement  de  sédimentation  à  partir  de  l’étude  d’une  roche 
+
+sédimentaire, en appliquant le principe d’actualisme. 
+
+Précisions : on ne développera pas les processus de diagénèse, on se limitera à indiquer 
+l’importance de la compaction (avec perte d’eau liée à l’enfouissement) et la nécessité de la 
+cimentation. Les professeurs choisiront des exemples de roches sédimentaires détritiques. 
+
+Connaissances 
+
+Érosion et activité humaine 
+
+L’être humain utilise de nombreux produits de l’érosion/sédimentation pour ses besoins. Par 
+ailleurs,  l’activité  humaine  peut  limiter  ou  favoriser  l’érosion,  entraînant  des  risques 
+importants  dans  certaines  zones  du  globe.  Des  mesures  d’aménagement  spécifiques 
+peuvent limiter les risques encourus par les populations humaines. 
+Objectifs : les élèves comprennent que l’érosion a des implications dans leur vie de tous les 
+jours, tant du point de vue des matériaux utiles à l’humanité que des risques liés à l’érosion. 
+
+Capacités 
+
+-  Identifier  les produits  d’érosion/sédimentation  utilisés par  l’humanité  pour répondre  à ses 
+
+besoins dans les matériaux du quotidien. 
+
+-  Identifier  des  zones  d’érosion  (déserts,  littoraux,  sols,  éboulements)  et  les  risques 
+
+associés, comme les moyens de prévention mis en œuvre. 
+
+-  Utiliser  des  bases  de  données  ou  des  images  pour  quantifier  l’importance  des 
+
+mécanismes d’érosion actuelle et éventuellement la part liée aux activités humaines. 
+
+Précisions :  on  s’appuiera  ici  sur  un  ou  deux  exemples  de  risques  liés  à  l’érosion  pour 
+montrer  que  les  sociétés  humaines  ont  à  prendre  en  compte  ce  risque.  Une  étude 
+exhaustive de tous les risques n’est pas attendue. 
+
+  Agrosystèmes et développement durable 
+L’augmentation de la population mondiale (près de 8 milliards d’habitants en 2018) pose des 
+défis  majeurs,  à  la  fois  quantitatifs  et  qualitatifs,  notamment  en  termes  d’alimentation.  La 
+compréhension  de  cet  enjeu  par  les  élèves,  futurs  citoyens,  est  au  cœur  de  cette 
+thématique : on étudie les caractéristiques des agrosystèmes et identifie les conditions d’une 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+production  durable  à  long  terme,  notamment  grâce  à  la  préservation  des  sols  agricoles  et 
+des ressources aquatiques. 
+Ce thème est aussi l’occasion de montrer l’importance de l’acquisition de connaissances et 
+de  la  mise  en  œuvre  des  démarches  scientifiques  et  technologiques  pour  optimiser  la 
+production agricole en minimisant les nuisances à l’environnement. 
+
+Connaissances 
+
+Structure et fonctionnement des agrosystèmes 
+
+Les  agrosystèmes  terrestres  ou  aquatiques  sont  gérés  afin  de  produire  la  biomasse 
+nécessaire  à  l’humanité  pour  ses  différents  besoins  (alimentaires,  textiles,  agrocarburants, 
+pharmaceutiques, etc.). 
+Les  caractéristiques  des  systèmes  agricoles  varient  selon  le modèle de  culture  (agriculture 
+vivrière, extensive ou intensive). 
+Dans plusieurs modèles agricoles, l’exportation d’une grande partie de la biomasse produite 
+réclame l’apport d’intrants pour fertiliser les sols. 
+Notions  fondamentales :  système ;  agrosystème ;  intrants  (dont  engrais  et  produits 
+phytosanitaires) ; exportation ; biomasse ; production ; rendement écologique. 
+
+Capacités 
+
+-  Recenser, extraire et organiser des informations issues du terrain (visite d’une exploitation 
+agricole,  par  exemple),  pour  caractériser  l’organisation  d’un  agrosystème :  éléments 
+constitutifs  (nature  des  cultures  ou  des  élevages),  interactions  entre  les  éléments 
+(interventions  humaines,  flux  de  matière  (dont  l’eau)  et  d’énergie  dans  l’agrosystème), 
+entrées et sorties du système (lumière, récolte, etc.). 
+
+-  Comprendre que l’organisation d’un agrosystème dépend des choix de l’exploitant et des 
+
+contraintes du milieu, et que ces choix tendent à définir un terroir. 
+
+-  Comprendre  comment  les  intrants  ont  permis  de  gérer  quantitativement  les  besoins 
+tout  en  entraînant  des  conséquences  qualitatives  sur 
+
+nutritifs  de 
+la  population, 
+l’environnement et la santé. 
+
+-  Réaliser des mesures et/ou utiliser des bases de données de biomasse et de production 
+agricole pour comprendre la différence entre la notion de rendement agricole (utilisée en 
+agriculture en lieu et place de production) et la notion de rendement écologique. 
+
+Précisions :  l’étude  de  tous  les  types  d’agrosystème  ainsi  que  des  écosystèmes  naturels 
+n’est pas attendue. 
+
+Caractéristiques des sols et production de biomasse 
+
+Connaissances 
+
+En  dehors  des  agents  érosifs,  la  nature  et  la  composition  des  sols  résultent  aussi  de 
+l’interaction  entre  les  roches  et  la  biosphère,  par  le  biais  de  plantes,  d’animaux  et  de 
+microbes.  La  biosphère  prélève  dans  les  sols  des  éléments  minéraux  participant  à  la 
+production de biomasse. 
+En  consommant  localement  la  biomasse  morte,  les  êtres  vivants  du  sol  recyclent  cette 
+biomasse en éléments minéraux, assurant la fertilité des sols. 
+Notions fondamentales : notion de biomasse ; réseaux trophiques ; décomposeurs ; cycle 
+de matière. 
+Objectifs :  l’organisation,  la  composition  et  l’origine  des  sols  sont  étudiées  à  partir  d’un 
+exemple local. L'influence de la nature du sous-sol sur les caractéristiques du sol est établie. 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+Capacités 
+
+-  Comprendre  (manipulation,  extraction,  organisation  d’informations)  les  modalités  de  la 
+
+formation des sols. 
+
+-  Utiliser des outils simples de détermination d’espèces pour découvrir la diversité des êtres 
+
+vivants du sol et leur organisation en réseaux trophiques. 
+
+-  Expérimenter  pour  comprendre  (à  partir  de  la  composition  des  engrais)  l’importance  des 
+
+éléments minéraux du sol dans la production de biomasse. 
+
+-  Concevoir et mener des expériences pour comprendre le recyclage de la biomasse du sol. 
+
+Précisions : l’étude exhaustive des conditions de formation des sols n’est pas attendue. 
+
+Vers une gestion durable des agrosystèmes 
+
+Connaissances 
+
+Les  agrosystèmes  ont  une  incidence  sur  la  qualité  des  sols  et  l’état  général  de 
+l’environnement proche de façon plus ou moins importante selon les modèles agricoles. 
+L’un  des  enjeux  environnementaux  majeurs  est  la  limitation  de  ces  impacts.  La  recherche 
+agronomique  actuelle,  qui  s’appuie  sur  l’étude  des  processus  biologiques  et  écologiques, 
+apporte  connaissances,  technologies  et  pratiques  pour  le  développement  d'une  agriculture 
+durable  permettant  tout  à  la  fois  de  couvrir  les  besoins  de  l’humanité  et  de  limiter  ou  de 
+compenser les impacts environnementaux. 
+Objectifs : par la démarche scientifique, les élèves appréhendent une problématique liée à 
+l'impact environnemental d'un agrosystème et envisagent des solutions réalistes et valides. 
+
+Capacités 
+
+-  Étudier,  dans  le  cadre  d’une  démarche  de  projet,  des  modèles  d’agrosystèmes  pour 
+comprendre leurs intérêts et leurs éventuels impacts environnementaux (fertilité et érosion 
+des sols, choix des cultures, développement de nouvelles variétés, perte de biodiversité, 
+pollution des sols et des eaux, etc.). 
+
+-  Adopter  une démarche  scientifique  pour  envisager  des  solutions réalistes à certaines  de 
+
+ces problématiques. 
+
+-  Comprendre  les  mécanismes  de  production  des  connaissances  scientifiques  et  les 
+difficultés auxquelles elle est confrontée (complexité des systèmes, conflits d’intérêts, etc.). 
+
+Précisions : ce thème permet, à partir d’exemples choisis par le professeur, d’identifier des 
+impacts  liés  aux  agrosystèmes  et  les  solutions  mises  en  œuvre  pour  les  réduire,  sans 
+chercher à être exhaustif. 
+
+Corps humain et santé 
+
+  Procréation et sexualité humaine 
+L’éducation  à  la  sexualité  qui  a  commencé  dès  l’école  se  fonde  sur  des  connaissances 
+scientifiques  clairement  établies.  L’étude  du  thème  « Procréation  et  sexualité  humaine » 
+gagne à être articulée au parcours éducatif de santé, en interaction avec les professionnels 
+de santé de l’établissement et d’autres disciplines. 
+
+Corps humain : de la fécondation à la puberté 
+
+Connaissances 
+
+Dans  le  champ  biologique,  l’identité  sexuée  est  fondée  sur  le  sexe  chromosomique  et 
+génétique  qui  induit  les  caractéristiques  sexuelles  anatomiques  et  physiologiques  de  la 
+personne. 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+La mise en place de l’organisation et de la fonctionnalité des appareils sexuels se réalise sur 
+une longue période qui va de la fécondation à la puberté. 
+Notions  fondamentales :  hormones  sexuelles  (testostérone,  progestérone,  œstrogènes) ; 
+organes cibles, follicules ; corps jaune ; cellules interstitielles ; tubes séminifères ; gène SrY ; 
+gonades indifférenciées et différenciées. 
+
+Capacités 
+
+-  Extraire  et  exploiter  des  informations  de  différents  documents  et/ou  réaliser  des 
+observations  microscopiques  et/ou  mettre  en  œuvre  une  démarche  historique,  pour 
+identifier : 
+
+• les relations entre sexe génétique et organisation anatomique et physiologique ; 
+• le fonctionnement des organes génitaux au cours de la vie. 
+-  Traduire certains mécanismes sous forme de schémas fonctionnels. 
+
+Précisions :  le  développement  embryonnaire  et  fœtal  des  organes  génitaux  n’est  pas 
+étudié.  Seul  est  montré  le  lien  entre  la  présence  du  gène  SrY  et  la  transformation  des 
+gonades  indifférenciées  sans  entrer  dans  le  détail  des  mécanismes  génétiques  et 
+moléculaires expliquant l’influence du sexe génétique sur le sexe phénotypique. L’étude des 
+anomalies génétiques ou développementales n’est pas traitée de manière exhaustive. 
+
+Connaissances 
+
+Cerveau, plaisir, sexualité 
+
+Chez  l’homme  et  la  femme,  le  système  nerveux  est  impliqué  dans  la  réalisation  de  la 
+sexualité.  Le  plaisir  repose  notamment  sur  des  mécanismes  biologiques,  en  particulier 
+l’activation dans le cerveau du système de récompense. 
+Les facteurs affectifs et cognitifs ainsi que le contexte culturel ont une influence majeure sur 
+le comportement sexuel humain. 
+Notions  fondamentales :  composante  biologique  de  la  relation  entre  sexualité  et  plaisir ; 
+cerveau et système de récompense/plaisir dans l’espèce humaine ; structures cérébrales et 
+composantes affectives, motivationnelles et cognitives. 
+
+Capacités 
+
+-  Identifier les structures cérébrales qui participent aux processus de récompense à partir de 
+
+documents et données médicales et expérimentales. 
+
+-  Différencier,  à  partir  de  la  confrontation  de  données  biologiques  et  de  représentations 
+
+sociales, ce qui relève : 
+
+•  de  l’identité  sexuelle,  des  rôles  en  tant  qu’individus  sexués  et  de  leurs  stéréotypes 
+
+dans la société, qui relèvent de l’espace social ; 
+
+• de l’orientation sexuelle qui relève de l’intimité des personnes. 
+
+-  Effectuer des comparaisons évolutives avec les comportements reproducteurs des autres 
+
+mammifères. 
+
+Précisions :  les  autres  composantes  de  la  sexualité  (psycho-affective  et  sociale)  sont 
+abordées.  On  veille  à  ne  pas  limiter  la  relation  entre  sexualité  et  plaisir  à  la  seule 
+composante biologique. 
+Les mécanismes cérébraux du plaisir sont étudiés seulement d’une façon globale (activation 
+de zones cérébrales) sans explicitation des phénomènes cellulaires. Il s’agit de montrer que 
+l’activité sexuelle dans l’espèce humaine est dépendante à la fois des hormones sexuelles et 
+des zones cérébrales impliquées dans le plaisir et qui peuvent par ailleurs être activées en 
+dehors des activités sexuelles. 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+  
+  
+   
+  
+Connaissances 
+
+Hormones et procréation humaine 
+
+Le  fonctionnement  de  l’appareil  reproducteur  repose  sur  un  dispositif  neuroendocrinien 
+faisant  intervenir  l’hypothalamus,  l’hypophyse  et  les  organes  sexuels.  La  connaissance  de 
+plus  en  plus  précise  des  hormones  naturelles  endogènes  contrôlant  les  fonctions  de 
+reproduction humaine a permis progressivement la mise au point de molécules de synthèse 
+exogènes  qui  leurrent  ce  système  et  permettent  une  maîtrise  de  la  procréation,  avec  de 
+moins en moins d'effets secondaires. 
+Chez  la  femme  et  chez  l’homme,  ces  molécules  de  synthèse  sont  utilisées  dans la 
+contraception  régulière  (« la  pilule »),  la  contraception  d'urgence  féminine,  les  hormones 
+contragestives  dans 
+(IVG) 
+médicamenteuse, ainsi que la contraception hormonale masculine. 
+D’autres modes de contraception existent chez l’homme et la femme ; certains permettent de 
+se protéger des infections sexuellement transmissibles (IST) et d’éviter leur propagation. 
+Selon les problèmes de stérilité ou d’infertilité, différentes techniques médicales peuvent être 
+utilisées pour aider à la procréation : assistance médicale à la procréation (AMP), hormones 
+pour permettre ou faciliter la fécondation et/ou la gestation. 
+Notions  fondamentales :  hormones  et  neurohormones  hypothalamo-hypophysaires  (FSH, 
+LH et GnRH) ; modes d’action biologique des molécules exogènes. 
+
+l'interruption  volontaire  de  grossesse 
+
+le  cadre  de 
+
+Capacités 
+
+-  Mettre  en  œuvre  une  méthode  (démarche  historique)  et/ou  une  utilisation  de  logiciels 
+(exemple :  visualisation  de  modèles  moléculaires,  réalité  augmentée)  et/ou  une  pratique 
+documentaire  pour  expliquer  le  mode  d’action  des  molécules  exogènes agissant  comme 
+des « leurres ». 
+
+-  Recenser,  extraire  et  organiser  des  informations  pour  relier  les  causes  de  stérilité  ou 
+
+d’infertilité au choix des modalités de l’assistance médicale à la procréation. 
+
+-  Extraire et exploiter des données pour relier la prévention contre les IST (SIDA, hépatite, 
+
+papillomavirus, etc.) à la vaccination ou l’utilisation du préservatif. 
+
+-  Montrer les applications biotechnologiques découlant des connaissances scientifiques. 
+
+Précisions :  la  connaissance  des  différents  types  de  rétrocontrôle  n’est  pas  attendue.  Il 
+s’agit  de  montrer  comment  des  molécules  exogènes  peuvent  agir  comme  des  « leurres » 
+pour empêcher la production des ovocytes ou des spermatozoïdes, pour désynchroniser le 
+fonctionnement de l’appareil reproducteur chez la femme ou empêcher le développement de 
+la  muqueuse  utérine.  Les  mécanismes  cellulaires  de  l’action  des  hormones,  de  même que 
+les  voies  de  leur  synthèse,  ne  sont  pas  au  programme.  Le  lien  est  établi  entre  certaines 
+étapes des techniques de l’assistance médicale à la procréation ou d’interruption volontaire 
+de grossesse et les connaissances scientifiques qui permettent de les expliquer et d’évoquer 
+leur cadre éthique. 
+
+  Microorganismes et santé 
+Les  élèves  abordent  deux  types  de  relations  entre  l’être  humain  et  les microorganismes  et 
+les replacent dans les écosystèmes dans lesquelles elles évoluent : 
+
+  des  relations  bénéfiques  de  type  symbiotique  où  les  microorganismes  remplissent 
+
+des fonctions contribuant à la santé de notre organisme ; 
+
+  des  relations  avec  des  agents  pathogènes  qui  peuvent  avoir  une  très  grande 
+importance  en  santé  publique,  en  France  comme  au  niveau  mondial  car  ils  sont 
+responsables de potentielles flambées épidémiques. 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+Agents pathogènes et maladies vectorielles 
+
+Connaissances 
+
+Certaines maladies causées par des agents pathogènes sont transmises directement entre 
+êtres humains ou par le biais d’animaux tels que les insectes (maladies vectorielles). 
+Les agents pathogènes (virus, certaines bactéries ou certains eucaryotes) vivent aux dépens 
+d’un  autre  organisme,  appelé  hôte  (devenu  leur  milieu  biologique),  tout  en  lui  portant 
+préjudice (les symptômes). 
+La  propagation  du  pathogène  se  fait  par  changement  d’hôte.  Il  exige  soit  un  contact  entre 
+hôtes,  soit  par  le  milieu  ambiant  (air,  eau),  soit  un  vecteur  biologique  qui  est  alors  l’agent 
+transmetteur  indispensable  du  pathogène  (il  assure  la  maturation  et/ou  la  multiplication  du 
+pathogène). 
+Le  réservoir  de  pathogènes  peut  être  humain  ou  animal  (malade  ou  non).  La  propagation 
+peut être plus ou moins rapide et provoquer une épidémie (principalement avec des virus). 
+La  connaissance  de  la propagation  du  pathogène  (voire,  s’il  y  en  a un,  du  vecteur)  permet 
+d’envisager les luttes individuelles et collectives. 
+Les  comportements  individuels  et  collectifs  permettent  de  limiter  la  propagation  (gestes  de 
+protection, mesures d’hygiène, vaccination, etc.). 
+Le  changement  climatique  peut  étendre  la  transmission  de  certains  pathogènes  en  dehors 
+de leurs zones historiques. 
+Notions  fondamentales :  pathogène,  vecteur,  réservoir  à  pathogène,  cycle  évolutif, 
+épidémie/endémie, modes de transmission, traitements, prophylaxie, vaccins, porteur sain. 
+
+Capacités 
+
+-  Exploiter  des  bases  de  données  permettant  de  connaître  la  répartition,  la  prévalence  ou 
+l’impact  en  termes  de  santé  publique  d’une  maladie  à  transmission  directe  et/ou 
+vectorielle. 
+
+-  Exploiter  des  données  issues  de  l’histoire  des  sciences  pour  comprendre  la  découverte 
+des  maladies  liées  à  des  pathogènes  à  transmission  directe  et/ou  vectorielle  et  leurs 
+traitements. 
+
+-  Observer des frottis sanguins d’individus atteints de paludisme. 
+-  Observer des appareils buccaux d’insectes vecteurs d’agents pathogènes. 
+-  Exploiter des documents montrant les modes de lutte contre des maladies vectorielles en 
+
+France et dans le monde. 
+
+-  Identifier, dans le cas du VIH, les conduites limitant la propagation de la maladie. 
+-  Appliquer  les connaissances  acquises à  d’autres  exemples choisis  pour  leur  intérêt  local 
+ou de santé publique, et pour permettre aux élèves d’exercer les compétences attendues 
+sur  d’autres  cas  de  maladies  (chikungunya,  dengue,  maladie  de  Lyme,  toxoplasmose, 
+etc.). 
+
+Précisions :  l’objectif  n’est  pas  de  faire  connaître  la  grande  variété  des  maladies  causées 
+par des pathogènes mais d’en faire comprendre les problématiques actuelles dans les pays 
+en difficulté économique, politique et sanitaire ainsi que dans les pays à économie favorable, 
+à  partir  d’un  ou  deux  exemples  actuels  et  sociétaux  de  maladies :  on  s’appuiera  sur  les 
+exemples  d’une  maladie  à  transmission  directe  (VIH)  et  une  à  transmission  vectorielle 
+(paludisme). 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+Connaissances 
+
+Microbiote humain et santé 
+
+Le  microbiote  humain  représente  l’ensemble  des  microorganismes  qui  vit  sur  et  dans  le 
+corps humain. 
+Les interactions entre hôte et microbiote jouent un rôle essentiel pour le maintien de la santé 
+et  du  bien-être  de  l’hôte.  La  composition  en  microorganismes  et  la  diversité  du  microbiote 
+sont des indicateurs de santé. 
+Le microbiote se met en place dès la naissance et évolue en fonction de différents facteurs 
+comme l’alimentation (présence de fibres) ou les traitements antibiotiques. 
+Le  microbiote  intestinal  a  un  rôle  indispensable  dans  l’immunité  et  dans  la  digestion. 
+Certaines  bactéries  ont  des  propriétés  anti-inflammatoires.  Les  travaux  sur  le  microbiote 
+établissent  des  corrélations  entre  des  compositions  du  microbiote  et  des  pathologies.  La 
+modulation du microbiote ouvre des pistes de traitement dans certains cas de maladies. 
+Certains  microorganismes  normalement  bénins  du  microbiote  peuvent  devenir  pathogènes 
+pour l’organisme notamment en cas d’affaiblissement du système immunitaire. 
+Notions fondamentales : symbiose ; hôte et microbiote ; unicité et diversité du microbiote ; 
+habitudes alimentaires et évolution du microbiote ; microbiote maternel et construction de la 
+symbiose hôte-microbiote ; compétition entre microbes. 
+
+Capacités 
+
+-  Calculer la proportion de microbes présents dans un individu par rapport à son nombre de 
+
+cellules. 
+
+-  Observer un frottis de bactéries du microbiote de vertébrés. 
+-  Exploiter des expériences historiques établissant des relations entre bactéries et santé. 
+-  Analyser,  comparer,  critiquer  des  informations  sur  les  effets  scientifiquement  prouvés  du 
+
+microbiote et sur l’utilisation du microbiote en santé humaine. 
+
+-  Savoir  évaluer  les  précautions  hygiéniques  nécessaires  au  plus  juste  (fréquence  et 
+
+pertinence des lavages de mains et utilisation de gels hydro-alcooliques). 
+
+Précisions :  les  notions  doivent  être  abordées  avec  un  nombre  limité  d’exemples.  La 
+connaissance des pré ou probiotiques n’est pas attendue. 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+

@@ -1,0 +1,1105 @@
+Annexe 
+
+Programme  de  sciences  de  l’ingénieur  de  première  et 
+terminale générales 
+
+Sommaire 
+
+Préambule 
+
+Les objectifs généraux 
+
+Une démarche scientifique affirmée 
+
+Un enseignement scientifique ambitieux pour préparer à l’enseignement 
+
+supérieur 
+
+Des projets innovants mobilisant une approche design 
+
+Un enseignement contextualisé dans de grandes thématiques 
+
+Programme 
+
+Créer des produits innovants 
+
+Analyser les produits existants pour appréhender leur complexité 
+
+Modéliser les produits pour prévoir leurs performances 
+
+Valider  les  performances  d’un  produit  par  les  expérimentations  et  les 
+
+simulations numériques 
+
+S’informer,  choisir,  produire  de  l’information  pour  communiquer  au  sein 
+
+d’une équipe ou avec des intervenants extérieurs 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+ 
+ 
+ 
+Préambule 
+
+Les objectifs généraux 
+
+Les ingénieurs imaginent et mettent en œuvre des solutions innovantes  pour répondre aux 
+besoins des personnes, avec l’ambition de rendre accessible à tous les progrès qu’apportent 
+quotidiennement les sciences et les technologies. 
+Les enjeux de société sont considérables et se situent à la conjonction d’évolutions rapides 
+et  inédites.  Par  exemple,  la  transformation  et  la  consommation  d’énergie,  qui  ne  font 
+qu’augmenter, s’accompagnent de fortes contraintes de préservation de l’environnement. La 
+densification  des  métropoles  interroge  aussi  profondément  l’organisation  de  ces  nouveaux 
+territoires,  notamment  la  mobilité  intra  et  extra  urbaine  et  l’ensemble  des  infrastructures 
+associées.  Ces  évolutions,  parmi  les  plus  importantes,  imposent  d’imaginer  des  solutions 
+alternatives à celles existantes. 
+De façon concomitante, la révolution numérique bouleverse les rapports entre les personnes 
+et  leur  environnement,  entre  les  êtres  humains  et  les  machines.  Elle  modifie  également  la 
+relation  entre  les  machines  elles-mêmes,  capables  d’échanger  de  façon  autonome  des 
+quantités  considérables  d’informations  en  communiquant  via  ce  que  l’on  nomme  l’internet 
+des objets. Grâce au déploiement et à la puissance des réseaux de communication, chacun 
+accède rapidement à de multiples services en réponse à ses besoins, le bénéfice de l’usage 
+l’emportant  sur  la  possession  des  objets.  Cette nouvelle  culture  du  partage  développe  des 
+valeurs de solidarité et est l’expression d’une attention portée à la qualité de l’environnement 
+qui sera laissée aux prochaines générations. 
+Les  ingénieurs,  au  terme  de  leur  formation,  sont  capables  d’imaginer  des  solutions 
+innovantes  qui  ne  se  limitent  pas  à  la  conception  des  objets  réduits  à  la  seule  dimension 
+matérielle.  Ils  proposent  des  solutions  qui  associent  les  dimensions  matérielles  et 
+numériques, 
+intégrées  et  complémentaires,  non  plus  pensées  successivement  et 
+séparément mais de façon simultanée. 
+Les  sciences  de  l’ingénieur  s’intéressent  aux  objets  et  aux  systèmes  artificiels,  appelés  de 
+façon  plus  générique  « produits ».  Cette  appellation  de  « produit »  réunit  sous  un  même 
+terme l’objet matériel et son jumeau numérique. Il intègre le programme informatique utile à 
+son  fonctionnement  et,  lorsqu’elle  est  nécessaire,  l’interface  homme-machine  connectée  à 
+un réseau de communication. Ces produits, supports d’activités des élèves au cycle terminal 
+du lycée, répondent à des besoins et définissent des usages. Leurs définitions permettent de 
+qualifier et de quantifier les performances du service attendu. 
+Ces  solutions  s’inscrivent  dans  un  contexte  fortement  contraint  par  les  enjeux  sociaux, 
+sociétaux et environnementaux, par la prise de décisions éthiques et responsables. 
+Avec la contribution des autres enseignements scientifiques, l’objectif de l’enseignement de 
+spécialité  de  sciences  de  l’ingénieur  du  cycle  terminal  du  lycée  est  de  faire  acquérir  des 
+compétences fondamentales qui permettent aux élèves de poursuivre vers les qualifications 
+d’ingénieur dont notre pays a besoin. 
+Comme  tous  les  enseignements,  cette  spécialité  contribue  au  développement  des 
+compétences  orales à travers  notamment  la pratique  de  l’argumentation.  Celle-ci  conduit  à 
+préciser sa pensée et à expliciter son raisonnement de manière à convaincre. Elle permet à 
+chacun de faire évoluer sa pensée, jusqu’à la remettre en cause si nécessaire, pour accéder 
+progressivement à la vérité par la preuve. Si ces considérations sont valables pour tous les 
+élèves,  elles  prennent  un  relief  particulier  pour  ceux  qui  choisiront  de  poursuivre  cet 
+enseignement  de  spécialité  en  terminale  et  qui  ont  à  préparer  l’épreuve  orale terminale  du 
+baccalauréat. Il convient que les travaux proposés aux élèves y contribuent dès la classe de 
+première. 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+Une démarche scientifique affirmée 
+
+L’approche  en  sciences  de  l’ingénieur  mobilise  une  démarche  scientifique  reposant  sur 
+l’observation,  l’élaboration  d’hypothèses,  la  modélisation,  la  simulation  et  l’expérimentation 
+matérielle  ou  virtuelle  ainsi  que  l’analyse  critique  des  résultats  obtenus.  Il  s’agit  de 
+comprendre  et  de  décrire  les  phénomènes  mis  en  œuvre  et  les  lois  de  comportement 
+associées, pour qualifier et quantifier les performances du produit afin de vérifier si le besoin 
+initialement défini est satisfait. 
+Les enseignements du cycle terminal installent progressivement la démarche de l‘ingénieur 
+qui  consiste  à  comparer  les  différentes  performances  du  cahier  des  charges  avec  celles 
+mesurées ou simulées. Les élèves sont conduits à mettre en œuvre une analyse critique des 
+résultats  pour  s’interroger  sur  leur  validité,  pour  optimiser  les  modèles  numériques  et  les 
+objets matériels afin d’obtenir les performances attendues. 
+
+Un enseignement scientifique ambitieux pour préparer à l’enseignement 
+supérieur 
+
+La contribution des STEM (Science, Technology, Engineering and Mathematics) permet une 
+appropriation des concepts scientifiques et technologiques par l’interdisciplinarité. 
+L’enseignement  de  sciences  de  l’ingénieur  intègre  des  contenus  propres  aux  sciences 
+physiques. De plus, en classe terminale, les élèves ayant choisi l’enseignement de spécialité 
+sciences  de  l’ingénieur  bénéficient  de  deux  heures  de  sciences  physiques  enseignées  par 
+un  professeur  de  physique-chimie.  Ces  deux  heures  sont  dédiées  aux  aspects 
+fondamentaux de sciences physiques. 
+Les  champs  abordés  en  sciences  de  l’ingénieur  recouvrent  le  large  spectre  scientifique  et 
+technologique des champs de la mécanique, de l’électricité et du signal, de l’informatique et 
+du numérique. Les simulations multi-physiques sont largement exploitées pour appréhender 
+les performances des produits en établissant des liens entre ces différents champs. 
+Ainsi,  les  élèves  qui  choisissent  l’enseignement  de  spécialité  sciences  de  l’ingénieur  en 
+classe  terminale  développent  les  compétences  attendues  pour  une  orientation  vers 
+l’enseignement supérieur scientifique. 
+
+Des projets innovants mobilisant une approche design 
+
+La  conduite de  projet  est  inhérente  à  l’activité des  ingénieurs,  elle est menée  en  équipe  et 
+nécessite de mettre en place des stratégies d’ingénierie collaborative. 
+L’approche  design  induit  l’innovation  et  questionne  les  fonctionnalités  et  les  formes  d’un 
+produit  en  lien  avec  ses  usages  dans  des  environnements  les  plus  divers.  Elle exploite  les 
+possibilités offertes par les technologies du numérique. Les ingénieurs sont alors créateurs 
+d’une  réalité  virtuelle  et  matérielle.  Ces  deux  réalités  s’enrichissent  mutuellement  en 
+mobilisant le concept de jumeau numérique. 
+Au  cours  de  la  classe  de  première,  un  projet  de  12  heures  mené  en  équipe  permet  aux 
+élèves d’imaginer et de matérialiser tout ou partie d’une solution originale. Ce projet peut être 
+commun à toutes les équipes d’une même classe ou d’un établissement sous la forme d’un 
+défi. 
+En  classe  terminale,  un  projet  de  48  heures  conduit  en  équipe  est  proposé  à  tous  les 
+élèves.  L’objectif  est  d’imaginer  tout  ou  partie  d’un  produit,  développé  sous  forme  de 
+réalisations  numérique  et  matérielle  en  vue  de  répondre  à  un  besoin  et  d’obtenir  des 
+performances clairement définies. Ces réalisations matérialisent tout ou partie d’une solution 
+imaginée  associée  à  un  modèle  numérique.  Elles  permettent  de  simuler  et  de  mesurer 
+expérimentalement  des  performances  et  de  les  valider.  Une  partie  de  programmation  est 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+nécessairement associée au projet. Elle peut prendre la forme d’une application qui installe 
+le produit dans un environnement communicant. 
+les  productions  attendues,  chaque  équipe  rédige  obligatoirement  une  note 
+Parmi 
+interdisciplinaire. Limitée à quelques pages, cette note développe un point des programmes 
+du  cycle  terminal  d’enseignement  de  sciences  physiques  et  de  l’autre  enseignement  de 
+spécialité, en montrant comment les notions liées à ces disciplines sont mobilisées dans le 
+projet. 
+Ce projet sert de support aux élèves qui choisissent les sciences de l’ingénieur pour soutenir 
+l’épreuve orale terminale. 
+Pour mener à bien ce projet, les élèves disposent d’outils de prototypage accessibles dans 
+des  laboratoires  de type  laboratoire  de fabrication  (ou  Fablab,  espace  partagé d’échanges, 
+de  recherche  et  de  fabrication,  doté  d’outils  numériques  et  technologiques),  mettant  à 
+disposition l’ensemble des ressources matérielles et numériques nécessaires. 
+
+Un enseignement contextualisé dans de grandes thématiques 
+
+L’enseignement de sciences de l’ingénieur mobilise des supports d’enseignement empruntés 
+au monde contemporain. 
+Les  thématiques  proposées  ne  sont  pas  exhaustives.  Elles  sont  représentatives  de 
+problématiques  actuelles  et  permettent  d’illustrer  les  enseignements  dans  toutes  leurs 
+modalités pédagogiques : cours, activités dirigées, activités pratiques et projets. 
+
+  Les territoires et les produits intelligents, la mobilité des personnes et des biens : 
+
+ 
+ 
+ 
+ 
+
+les structures et les enveloppes ; 
+les réseaux de communication et d’énergie ; 
+les objets connectés, l’internet des objets ; 
+les mobilités des personnes et des biens. 
+
+  L’homme assisté, réparé, augmenté : 
+
+ 
+ 
+ 
+
+les produits d’assistance pour la santé et la sécurité ; 
+l’aide et la compensation du handicap ; 
+l’augmentation des performances du corps humain. 
+
+  Le design responsable et le prototypage de produits innovants : 
+
+ 
+ 
+ 
+
+l’ingénierie design de produits innovants ; 
+le prototypage d’une solution imaginée en réalité matérielle ou virtuelle ; 
+les applications numériques nomades. 
+
+Programme 
+
+Dans les tableaux ci-dessous, une indication précise le positionnement des enseignements 
+dans le cycle. 
+L’indication « 1e » signifie que les contenus doivent être acquis et sont évalués à la fin de la 
+classe de première, mais qu’ils peuvent être remobilisés en classe terminale. 
+L’indication  « Tale »  signifie  que  les  contenus  peuvent  être  développés  sur  l’ensemble  du 
+cycle et être acquis en fin de cycle. 
+L’évaluation de fin de cycle porte sur l’ensemble du programme des deux années. 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+Créer des produits innovants 
+
+Au  XXIe  siècle,  dans  des  contextes  fortement  évolutifs,  la  compétitivité  des  entreprises  et 
+l’efficience des administrations sont liées à leur capacité à innover de façon permanente. La 
+formation  des  futurs  ingénieurs  doit  stimuler  leur  créativité,  les  préparer  à  une  disposition 
+d’esprit  propice  à  l’innovation  et  aborder  des  méthodes  de  recherche  créative  et 
+d’organisation de projet. 
+Créer  des  produits  innovants  mobilise  l’ensemble  des  compétences  du  cycle  terminal  de 
+sciences de l’ingénieur. 
+Au  cycle  terminal,  les  élèves  sont  invités  à  proposer  des  solutions  nouvelles  sur  des 
+problématiques  simples  mais  aussi  des  évolutions  de  solutions  existantes  pour  prendre  en 
+compte une rupture technologique ou une évolution des attentes des clients. 
+Les solutions s’attachent à définir les aspects fonctionnel et esthétique en vue d’élaborer un 
+prototype. La viabilité économique ainsi que l’industrialisation du produit seront abordées au 
+cours des études supérieures. 
+Au  terme  de  la  formation  du  cycle  terminal,  les  élèves  ont  acquis  de  bonnes  pratiques  en 
+termes de veille technologique et de questionnement permanent. Ils proposent des solutions 
+nouvelles, fruits d’une démarche organisée et collective. Ils sont capables de l’expliquer, de 
+la décrire par des schémas et de convaincre un auditoire de sa pertinence. 
+La compétence « innover » est essentiellement développée dans les activités de projet. 
+Ainsi, à l’issue du cycle terminal, les élèves sont évalués sur leurs compétences à : 
+
+  proposer  tout  ou  partie  d’une  nouvelle  solution  sous  forme  virtuelle  ou  matérielle  à 
+partir  d’un  nouveau  concept  de  produit  ou  d’un  produit  existant  et  susceptible 
+d’évoluer ; 
+
+  matérialiser  la  solution  réalisable  avec  des  outils  de  prototypage  intégrés  dans  une 
+
+chaîne numérique. 
+
+INNOVER 
+
+Compétences développées  Connaissances associées 
+
+Classe 
+
+Rompre avec l’existant 
+Améliorer l’existant 
+
+Élaborer une démarche globale 
+d'innovation 
+
+Imaginer une solution originale, 
+appropriée et esthétique 
+
+Représenter une solution 
+originale 
+
+Matérialiser une solution 
+virtuelle 
+
+Évaluer une solution 
+
+Éléments d’histoire des innovations et des produits 
+
+Méthodes agiles 
+Approche design, apports et limites 
+Veille technologique 
+Cartes heuristiques 
+Méthodes de brainstorming, d’analogies, de 
+détournement d’usage 
+Scénarios d’usage et expériences utilisateurs 
+Design d’interface et d’interaction 
+Éléments d’ergonomie 
+
+Outil numérique graphique 
+Modeleur volumique 
+
+Mise en œuvre d’outils de prototypage rapide 
+Prototypage de la commande 
+
+Mesures et tests des performances de tout ou 
+partie de la solution innovante 
+Amélioration continue 
+
+1e 
+
+Tale 
+
+1e 
+
+Tale 
+
+Tale 
+
+Tale 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+ 
+Contexte 
+
+Les  éléments  d’histoire  sont  contextualisés  par  un  exemple  circonscrit  à  l’un  des  éléments 
+d’une  thématique.  Cela  permet  d’illustrer  des  processus  d’innovation  de  rupture  ou 
+d’innovation incrémentale. 
+La  compétence  « Innover »  se  développe  de  façon  privilégiée  dans  la démarche  de  projet. 
+Les connaissances associées aux « méthodes agiles » et à l’« approche design » se limitent 
+à quelques éléments méthodologiques. 
+Les  méthodes  mises  en  œuvre  pour  imaginer  des  solutions  originales  conduisent  à 
+l’élaboration de croquis et de schémas. 
+Les élèves ont à disposition des équipements matériels et numériques disponibles dans un 
+espace de type « FabLab ». 
+
+Analyser les produits existants pour appréhender leur complexité 
+
+La société attend des ingénieurs qu’ils lui proposent des solutions nouvelles pour répondre 
+aux  besoins  émergents.  La  capacité  à  proposer  des  solutions  innovantes  repose  en  partie 
+sur  une  analyse  des  solutions  existantes  et  des  enjeux  de  société  associés.  Ainsi,  les 
+ingénieurs sont capables de mener une analyse structurée des produits et d’utiliser une base 
+de connaissances scientifiques et technologiques. 
+À partir des prérequis installés au collège et des enseignements scientifiques  communs en 
+classe de seconde, le cycle terminal approfondit de façon qualitative l’analyse des produits 
+d’une complexité croissante et quantifie les performances attendues. Il permet de constituer 
+une large base de connaissances scientifiques et technologiques. 
+Ainsi, à l’issue du cycle terminal, les élèves sont évalués sur leurs compétences à analyser : 
+
+ 
+ 
+
+ 
+
+l’organisation fonctionnelle et matérielle d’un produit ; 
+les  échanges  d’énergie,  les  transmissions  de  puissance,  les  échanges  et  le 
+traitement des informations ; 
+les écarts entre les performances attendues, simulées ou mesurées. 
+
+ANALYSER 
+
+Compétences développées  Connaissances associées 
+
+Classe 
+
+Analyser le besoin, 
+l’organisation matérielle et 
+fonctionnelle d’un produit par 
+une démarche d’ingénierie 
+système 
+
+Caractériser la puissance et 
+l’énergie nécessaire au 
+fonctionnement d’un produit ou 
+d’un système 
+Repérer les échanges 
+d’énergie sur un diagramme 
+structurel 
+
+Analyser la réversibilité d’un 
+élément de la chaîne de 
+puissance 
+
+Outils d’ingénierie-système : diagrammes 
+fonctionnels, définition des exigences et des 
+critères associés, cas d’utilisations, analyse 
+structurelle 
+
+Grandeurs physiques (mécanique, électrique, 
+thermique, etc.) mobilisées par le fonctionnement 
+d’un produit 
+Grandeurs d’effort et de flux liées à la nature des 
+procédés 
+Rendements et pertes 
+
+1e 
+
+1e 
+
+Sens des transmissions de puissance 
+Stockage de l’énergie 
+Réversibilité/irréversibilité des constituants d’une 
+chaîne de puissance 
+
+Tale 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+ 
+Analyser le traitement de 
+l’information 
+
+Algorithme, programme 
+Langage informatique 
+Notions sur l’intelligence artificielle 
+
+Analyser le comportement d’un 
+objet à partir d’une description 
+à événements discrets 
+
+Diagramme états-transitions 
+Algorithme  
+
+Architecture Client/Serveur, cloud 
+Architecture des réseaux de communication 
+Débit/vitesse de transmission 
+
+Internet des objets 
+Notions de modulation-démodulation de signaux 
+numériques en amplitude, en fréquence 
+
+Protocoles, trames, encapsulation 
+Support filaire et sans fil 
+
+Systèmes asservis linéaires en régime 
+permanent : structures par chaîne directe ou 
+bouclée, perturbation, comparateur, correcteur 
+proportionnel, précision (erreur statique) 
+
+Charge permanente, charge d’exploitation 
+
+Lois physiques associées au fonctionnement 
+d’un produit 
+Description qualitative et quantitative des 
+grandeurs physiques caractéristiques du 
+fonctionnement d’un produit 
+Critères de performances 
+
+Écarts de performance absolu ou relatif, et 
+interprétations possibles 
+Erreurs et précision des mesures expérimentales 
+ou simulées 
+Traitement des données : tableaux, graphiques, 
+valeurs moyennes, écarts types, incertitude de 
+mesure 
+Choix pertinent d’un ou plusieurs critères de 
+comparaison 
+
+Analyser et caractériser les 
+échanges d’information d’un 
+système avec un réseau de 
+communication 
+
+Analyser les principes de 
+modulation et démodulation 
+numériques 
+
+Analyser les principaux 
+protocoles pour un réseau de 
+communication et les supports 
+matériels 
+
+Analyser le comportement d’un 
+système asservi  
+
+Analyser les charges 
+appliquées à un ouvrage ou 
+une structure 
+
+Analyser des résultats 
+d’expérimentation et de 
+simulation 
+
+Quantifier les écarts de 
+performances entre les valeurs 
+attendues, les valeurs 
+mesurées et les valeurs 
+obtenues par simulation 
+
+Rechercher et proposer des 
+causes aux écarts de 
+performances constatés 
+
+Valider les modèles établis 
+pour décrire le comportement 
+d’un objet 
+
+Tale 
+
+Tale 
+
+Tale 
+
+Tale 
+
+1e 
+
+Tale 
+
+Tale 
+
+Tale 
+
+1e 
+
+Analyse des écarts de performances 
+
+Tale 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+ 
+ 
+Contexte 
+
+L’outil  d’ingénierie  système  actuellement  proposé  est  le  SysML.  L’enseignement  des  outils 
+de description de type SysML n’est pas une finalité et doit se limiter aux  bases strictement 
+nécessaires. 
+Les supports d’étude sont pluri-technologiques et multi-physiques, ils peuvent aussi être une 
+structure, une enveloppe ou un ouvrage. 
+La  puissance  instantanée  est  caractérisée  par  le  produit  d’une  grandeur  d’effort  (force, 
+couple,  pression,  tension,  etc.)  par  une  grandeur  de  flux  (vitesse,  vitesse  angulaire,  débit, 
+intensité du courant, etc.). 
+L’intelligence  artificielle  est  présentée  dans  une  approche  simplifiée  (machine  learning, 
+moteur  d’inférence),  du  type  de  relation  entrées/sorties.  Celle-ci  est  purement  applicative 
+sans  entrer  dans  les  détails  des  outils  mathématiques.  Elle  est  abordée  sous  la  forme 
+d’activités dirigées de simulation. 
+Les  flux  d’information  liés  aux  échanges  entre  un  produit  et  son  environnement  numérique 
+sont  caractérisés  en  termes  de  quantité  de  données  et  de  vitesse  de  transmission.  Les 
+objets communicants connectés et « l’internet des objets » sont propices à ce type d’étude. 
+Le  langage  informatique  actuellement  proposé  est  Python.  De  façon  complémentaire, 
+d’autres  langages  peuvent  être  présentés  afin  de  sensibiliser  les  élèves  à  la  diversité  des 
+langages informatiques. 
+L’analyse des modulations-démodulations numériques est abordée de façon qualitative. Elle 
+est fondée sur les résultats issus de simulations multi-physiques. 
+
+Modéliser les produits pour prévoir leurs performances 
+
+La création de produits technologiques a pour objectif de répondre à des besoins et d’obtenir 
+des performances préalablement définies. Les ingénieurs, pour prévoir les performances des 
+solutions  développées,  construisent  des  modèles.  Ils  disposent  pour  cela  des  outils 
+numériques, logiciels multi-physiques associés à des modeleurs volumiques. Cela permet de 
+construire  des  modèles  à  partir  d’une  organisation  fonctionnelle  et  matérielle  existantes  ou 
+imaginées. 
+Ils  disposent  aussi  d’outils 
+théoriques 
+comportement de tout ou partie du produit. 
+Pour les élèves du cycle terminal, la résolution des équations issues de la modélisation  est 
+conduite  à  l’aide  d’outils  numériques.  Dans  les  cas  les  plus  simples,  une  résolution 
+analytique peut être menée. Elle ne sera réalisée que si elle présente un intérêt pédagogique 
+à  l’acquisition  et  à  la  compréhension  de  la  démarche  scientifique,  des  lois  et  concepts 
+associés. 
+La résolution des équations de comportement et la simulation numérique des modèles multi-
+physiques permettent de prévoir les grandeurs associées aux performances attendues. 
+Ainsi, à l’issue du cycle terminal, les élèves sont évalués sur leurs compétences à : 
+
+leur  permettant  d’établir  des  équations  de 
+
+  construire  un  modèle  multi-physique  d’un  objet  par  association  de  composants 
+numériques issus d’une bibliothèque, en connaissant la constitution de l’objet matériel 
+ou de sa maquette numérique ; 
+
+  construire un modèle de composant ou d’une association de composants à partir des 
+
+ 
+
+lois physiques, en établissant les équations analytiques du comportement ; 
+résoudre  les  équations  issues  de  la  modélisation  en  vue  de  caractériser  les 
+performances d’un objet. 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+ 
+MODÉLISER ET RÉSOUDRE 
+
+Compétences développées 
+
+Connaissances associées 
+
+Classe 
+
+Proposer et justifier des 
+hypothèses ou simplification en 
+vue d’une modélisation 
+
+Caractériser les grandeurs 
+physiques en entrées/sorties 
+d’un modèle multi-physique 
+traduisant la transmission de 
+puissance 
+
+Associer un modèle aux 
+composants d’une chaîne de 
+puissance  
+
+Traduire le comportement 
+attendu ou observé d’un objet  
+
+Traduire un algorithme en un 
+programme exécutable 
+
+Modéliser sous une forme 
+graphique une structure, un 
+mécanisme ou un circuit 
+
+Modéliser les mouvements 
+Modéliser les actions 
+mécaniques 
+
+Caractériser les échanges 
+d’informations  
+
+Hypothèses simplificatrices 
+Modélisation plane 
+
+Grandeur effort, grandeur flux 
+Énergie 
+Puissance instantanée, moyenne 
+Réversibilité de la chaîne de puissance 
+
+Sources parfaites de flux et d’effort 
+Interrupteur parfait 
+Modèle associé aux composants élémentaires 
+de transformation, de modulation, de conversion 
+ou de stockage de l’énergie 
+
+Comportement séquentiel 
+Structures algorithmiques (variables, fonctions, 
+structures séquentielles, itératives, répétitives, 
+conditionnelles) 
+Diagramme d’états-transitions 
+
+Langage de programmation 
+
+Circuit électrique 
+Schéma cinématique 
+Graphe de liaisons et des actions mécaniques 
+
+Trajectoires et mouvement 
+Liaisons 
+Torseurs cinématiques et d’actions mécaniques 
+transmissibles, de contact ou à distance 
+Réciprocité mouvement relatif/actions 
+mécaniques associées 
+
+Natures et caractéristiques des signaux, des 
+données, des supports de communication 
+Protocole, trame 
+Débit maximal, débit utile 
+
+Capteurs 
+
+Associer un modèle à un 
+système asservi 
+
+Notion de système asservi : consigne d’entrée, 
+grandeur de sortie, perturbation, erreur, 
+correcteur proportionnel 
+
+Utiliser les lois et relations entre 
+les grandeurs effort et flux pour 
+élaborer un modèle de 
+connaissance 
+
+Déterminer les grandeurs flux 
+(courant) et effort (tension) dans 
+un circuit électrique  
+
+Modèle de connaissance sur des systèmes 
+d’ordre 0, 1 ou 2 : gain pur, intégrateur, 
+dérivateur 
+
+Lois de Kirchhoff 
+Lois de comportement 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+1e 
+
+1e 
+
+1e 
+
+1e 
+
+Tale 
+
+1e 
+
+1e 
+
+1e 
+
+1e 
+
+Tale 
+
+Tale 
+
+1e 
+
+   
+  
+ 
+ 
+Déterminer les actions 
+mécaniques (inconnues 
+statiques de liaisons ou action 
+mécanique extérieure) menant à 
+l’équilibre statique d’un 
+mécanisme, d’un ouvrage ou 
+d’une structure 
+
+Déterminer les grandeurs 
+géométriques et cinématiques 
+d’un mécanisme 
+
+Déterminer la grandeur flux 
+(vitesse linéaire ou angulaire) 
+lorsque les actions mécaniques 
+sont imposées  
+
+Déterminer la grandeur effort 
+(force ou couple) lorsque le 
+mouvement souhaité est imposé 
+
+Quantifier les performances d’un 
+objet réel ou imaginé en 
+résolvant les équations qui 
+décrivent le fonctionnement 
+théorique  
+
+Contexte 
+
+Principe fondamental de la statique 
+Modèle de frottement – Loi de Coulomb 
+
+Positions, vitesses et accélérations linéaire et 
+angulaire sous forme vectorielle 
+Champ des vitesses 
+Composition des vitesses dans le cas d’une 
+chaîne ouverte 
+Loi d’entrée/sortie d’un mécanisme dans le cas 
+d’une chaîne fermée (fermeture géométrique) 
+
+Principe fondamental de la dynamique 
+Solide en rotation autour d’un axe fixe dont le 
+centre de gravité est sur l’axe de rotation 
+Notion d’inertie et d’inertie équivalente 
+Solide en translation rectiligne 
+
+Tale 
+
+1e 
+
+Tale 
+
+Méthodes de résolution analytique et numérique 
+
+Tale 
+
+Les connaissances associées dans les différents champs disciplinaires visent à apporter les 
+bases nécessaires à la poursuite d’études supérieures scientifiques. Sont précisés de 
+manière indicative les éléments suivants. 
+Mécanique du point : 
+-  bases, repères et référentiels ; 
+-  fermeture géométrique ; 
+-  dérivée d’un vecteur position exprimé dans la base de dérivation ; 
+-  principe fondamental de la dynamique. 
+Mécanique du solide : 
+-  torseur cinématique, composition des mouvements ; 
+-  force appliquée en un point, couple, action de la pesanteur, torseurs d’action mécanique 
+
+transmissible dans les liaisons, frottements sec et visqueux ; 
+
+-  principe fondamental de la dynamique pour les mouvements de translation et de rotation 
+
+autour d’un axe fixe. 
+
+Électrocinétique : 
+-  résistance, inductance, condensateur, interrupteurs parfaits de type diode et transistor ; 
+-  sources parfaites continues, sources alternatives, systèmes monophasé et triphasé ; 
+-  notion de période, de fréquence, d’amplitude, de valeurs moyenne et efficace ; 
+-  lois de Kirchhoff ; 
+-  principe de superposition. 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+ 
+Énergétique : 
+-  énergie cinétique, énergie potentielle ; 
+-  rendement, puissance instantanée, puissance moyenne ; 
+-  bilan d’énergie, conservation d’énergie. 
+Informatique : 
+-  variables, fonctions, structures séquentielles, itératives, répétitives, conditionnelles ; 
+-  programmation événementielle (interface graphique) ; 
+-  protocoles standards de communication des objets dits intelligents (LoRa) ; 
+-  bus de communication et réseaux, clients et serveurs ; 
+-  diagramme états-transitions (automates). 
+La modélisation des actions mécaniques s’applique aux mécanismes, structures et 
+ouvrages. 
+Les méthodes graphiques peuvent être utilisées, mais leur maîitrise n’est pas exigée. 
+
+Valider  les  performances  d’un  produit  par  les  expérimentations  et  les 
+simulations numériques 
+
+Pour valider les performances d’un produit, les ingénieurs réalisent des expérimentations et 
+des essais. Ils permettent d’obtenir des valeurs expérimentales de performances à partir du 
+fonctionnement du produit réel. 
+Par ailleurs, les ingénieurs simulent le fonctionnement d’un produit à l’aide d’outils logiciels 
+qui exploitent les modèles numériques. Les simulations mobilisant les modèles numériques 
+atteignent  un  haut  degré  de fiabilité.  Elles permettent  de  réaliser  des  essais  virtuels  sur  un 
+jumeau numérique qui sont comparables à des expérimentations sur un objet matériel, voire 
+d’effectuer  des  mesures  qui  seraient  inaccessibles,  impossibles  ou  dangereuses  sur  l’objet 
+matériel. 
+La  comparaison  des  écarts  entre  les  résultats  de  simulation,  d’expérience  et  les  niveaux 
+attendus  est  aussi  source  de  multiples  réflexions  quant  à  la  pertinence  du  modèle,  la 
+pertinence du protocole expérimental ou encore la validité de la solution au regard du cahier 
+des charges. 
+Ainsi, à l’issue du cycle terminal, les élèves sont évalués sur leurs compétences à : 
+
+  proposer et mettre en œuvre un protocole expérimental permettant de quantifier les 
+
+performances de tout ou partie d’un objet matériel ; 
+
+  proposer  et  mettre  en  œuvre  des  outils  de  simulation  numérique  permettant  de 
+
+quantifier les performances de tout ou partie d’un jumeau numérique ; 
+
+  mettre en œuvre un protocole afin de valider les échanges d’informations entre objets 
+
+à travers un réseau de communication ; 
+
+  simuler  le  fonctionnement  d’un  produit  à  l’aide  d’un  modèle  numérique  en  vue  d’en 
+
+caractériser les performances. 
+
+EXPÉRIMENTER ET SIMULER 
+
+Compétences développées 
+
+Connaissances associées 
+
+Classe 
+
+Prévoir l’ordre de grandeur de la 
+mesure 
+
+Identifier les erreurs de mesure 
+
+Gamme d’appareils de mesure et capteurs 
+
+1e 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+ 
+Conduire des essais en toute 
+sécurité à partir d’un protocole 
+expérimental fourni  
+
+Proposer et justifier un protocole 
+expérimental 
+
+Instrumenter tout ou partie d’un 
+produit en vue de mesurer les 
+performances 
+
+Mettre en œuvre une 
+communication entre objets dits 
+intelligents 
+
+Règle de raccordement des appareils de 
+mesure et des capteurs 
+
+Capteurs, composants d’une chaîne 
+d’acquisition 
+Paramétrage d’une chaîne d’acquisition 
+Carte micro - contrôleur  
+
+Paramètres de configuration d’un réseau 
+
+Relever les grandeurs 
+caractéristiques d’un protocole de 
+communication 
+
+Caractéristiques des signaux 
+Protocole, trame 
+Débit maximal, débit utile 
+
+Modifier les paramètres influents 
+et le programme de commande en 
+vue d’optimiser les performances 
+du produit 
+
+Mettre en œuvre une simulation 
+numérique à partir d’un modèle 
+multi-physique pour qualifier et 
+quantifier les performances d’un 
+objet réel ou imaginé 
+
+Processus itératif d’amélioration des 
+performances 
+
+Paramètres de simulation : durée, incrément 
+temporel, choix des grandeurs affichées, 
+échelles adaptées à l’amplitude et la 
+dynamique des grandeurs simulées 
+
+Valider un modèle numérique de 
+l’objet simulé 
+
+Écarts entre les performances simulées et 
+mesurées 
+Limites de validité d’un modèle 
+
+1e 
+
+Tale 
+
+Tale 
+
+Tale 
+
+1e 
+
+Tale 
+
+Tale 
+
+Tale 
+
+Contexte 
+
+Les produits supports des expérimentations sont multi-physiques. Ils peuvent également être 
+une structure ou un ouvrage. 
+Les  expérimentations  peuvent  s’effectuer  sur  tout  ou  partie  du  produit  matériel  ou  son 
+jumeau  numérique.  L’implantation  de  blocs  de  mesure  préconfigurés  (fournis  dans  des 
+bibliothèques  logicielles  intégrées)  dans  un  modèle  multi-physique  est  à  développer 
+particulièrement. 
+L’usage  pédagogique  des  smartphones  ou  des 
+tablettes  numériques  est  possible, 
+notamment  pour  leurs  capacités  d’acquisitions  de  grandeurs  physiques  ainsi  que  pour 
+l’interfaçage homme-machine.  
+
+S’informer,  choisir,  produire  de  l’information  pour  communiquer  au  sein 
+d’une équipe ou avec des intervenants extérieurs 
+
+Les ingénieurs communiquent avec de nombreuses personnes. Ils échangent avec des non 
+spécialistes pour comprendre leur besoin ainsi qu’avec de nombreux intervenants au sein de 
+l’entreprise et avec des partenaires. 
+Les  ingénieurs  sélectionnent  des  informations  pertinentes,  ils  produisent  et  présentent  des 
+informations relatives à leur activité. 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+ 
+ 
+Les  ingénieurs  proposent  des  solutions  innovantes  qu’ils  présentent  de  façon  argumentée 
+pour convaincre partenaires et décideurs. 
+Ainsi, à l’issue du cycle terminal, les élèves sont évalués sur leurs compétences à : 
+
+rechercher, traiter et organiser des informations ; 
+
+ 
+  choisir et produire un support de communication via un média adapté ; 
+  argumenter et adapter les stratégies de communication au contexte ; 
+ 
+
+travailler de manière collaborative en présentiel ou à distance. 
+
+COMMUNIQUER 
+
+Compétences développées 
+
+Connaissances associées 
+
+Classe 
+
+Présenter un protocole, une 
+démarche, une solution en 
+réponse à un besoin 
+Présenter et formaliser une idée 
+
+Rendre compte de résultats 
+
+Collecter et extraire des données 
+Comparer, traiter, organiser et 
+synthétiser les informations 
+pertinentes 
+
+Documenter un programme 
+informatique 
+
+Développer des tutoriels, établir 
+une communication à distance 
+
+Travailler de manière collaborative 
+Trouver un tiers expert 
+Collaborer en direct ou sur une 
+plateforme, via un espace de 
+fichiers partagés 
+
+Adapter sa communication au 
+public visé et sélectionner les 
+informations à transmettre 
+Scénariser un document suivant le 
+public visé 
+
+Diagrammes fonctionnels, schémas, croquis 
+
+Tale 
+
+Tableau, graphique, diaporama, carte 
+mentale 
+
+ENT, moteurs de recherche, internet, blog, 
+base de données, dossiers techniques 
+
+Commentaires de programmes 
+
+Montage audio / vidéo 
+
+Espaces partagés et de stockage, ENT 
+
+Média, outils multimédia, outils bureautiques, 
+carte mentale, diagramme de l'ingénierie-
+système, schéma, croquis, prototype 
+
+1e 
+
+1e 
+
+Tale 
+
+1e 
+
+1e 
+
+1e 
+
+Communiquer de façon 
+convaincante 
+
+Placement de la voix, qualité de l’expression, 
+gestion du temps 
+
+Tale 
+
+Contexte 
+
+Les  normes  des  croquis  et  schémas  ne  font  pas  l’objet  de  cours  spécifiques  et  sont  mis  à 
+disposition des élèves. 
+La  communication  est  une  finalité  liée  à  l’ensemble  des  activités  et  au  projet.  Elle  sera  à 
+favoriser dès que possible. 
+Le travail collaboratif est un axe majeur dans l’activité des ingénieurs. 
+
+© Ministère de l'Éducation nationale et de la Jeunesse > www.education.gouv.fr 
+
+   
+  
+ 
+ 
+ 
+ 
+ 
+
