@@ -1,6 +1,46 @@
+############################
+#  Python
+############################
 __pycache__/
-*.pyc
-.env
+*.py[cod]
+# virtual-envs
+venv/
+env/
+.venv/
+
+############################
+#  Node / Frontend
+############################
 node_modules/
+# bundles générés (Vite / Webpack)
+dist/
+build/
+
+############################
+#  PHP / Symfony
+############################
+vendor/
+var/
+# .env locaux
+.env
+.env.local
+
+############################
+#  Logs
+############################
 *.log
-data/programmes/txt/
+logs/
+
+############################
+#  Données brutes du crawler
+############################
+workers/crawler/downloads/
+workers/crawler/data/programmes/txt/
+
+############################
+#  Divers
+############################
+# sauvegardes, OS
+*.swp
+.DS_Store
+Thumbs.db
