@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/raievise",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "torni",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
